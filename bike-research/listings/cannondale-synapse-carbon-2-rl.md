@@ -1,5 +1,7 @@
 # Cannondale Synapse Carbon 2 RL — New from Dealer
 
+![Cannondale Synapse Carbon 2 RL](https://www.uprisebikes.com/images/C12251UBLK.png)
+
 **Price:** €2,899 (was €4,699)  
 **Seller:** Rijwielshop Elfring (Wehl, 19 yr on Marktplaats)  
 **Condition:** New  
@@ -15,12 +17,12 @@
 | **Fork** | Carbon |
 | **Groupset** | Shimano Ultegra R8000, 2×11 mechanical |
 | **Crankset** | 50/34T |
-| **Cassette** | Not specified (likely 11-30 or 11-32) |
-| **Brakes** | Shimano Ultegra hydraulic disc |
+| **Cassette** | Shimano Ultegra HG800, 11-34 (1:1 low gear ✓) |
+| **Brakes** | Shimano Ultegra hydraulic disc, 160/160mm |
 | **Wheels** | Fulcrum Rapid Red 900 |
-| **Tyres** | Not specified (typically 28-30 mm) |
+| **Tyres** | Vittoria Rubino Pro 700×30C |
 | **Weight** | ~8.5-8.8 kg (est.) |
-| **Tyre clearance** | ~32-35 mm (est.) |
+| **Tyre clearance** | ~35 mm |
 | **Available sizes** | 56, 58, 61 cm |
 
 ## Alpe d'Huez Assessment
@@ -30,8 +32,8 @@
 | **Budget (€2k–€3k)** | ✓ €2,899 |
 | **Endurance geometry** | ✓ Synapse = classic endurance geometry |
 | **Disc brakes** | ✓ Ultegra hydraulic |
-| **Gearing ≤1:1** | ⚠ Depends on cassette — not specified |
-| **Tyre clearance ≥32mm** | ✓ ~32-35 mm (est.) |
+| **Gearing ≤1:1** | ✓ 34/34 = 1.0 (50/34 + 11-34 confirmed) |
+| **Tyre clearance ≥32mm** | ✓ ~35 mm |
 | **Carbon frame** | ✓ |
 
 ## Pros
@@ -46,18 +48,14 @@
 ## Cons
 
 - **2×11 speed** (not 12-speed) — older groupset generation, though Ultegra is excellent
-- **Cassette unknown** — needs verification. If 11-30, lowest gear = 34/30 = 1.13 — **not enough for Alpe d'Huez**. May need cassette swap (+€60-100)
 - **€2,899 is at budget ceiling** — leaves less room for clip-on bars + bike fit
-- **Typical Cannondale tyre clearance** on older Synapse is ~32 mm — less than Giant Defy (40 mm) or Roubaix (40 mm)
+- **Tyre clearance ~35 mm** — behind Giant Defy (40 mm) or Roubaix (40 mm)
 - **No Di2** — Ultegra mechanical is great but at this price you can get 105 Di2 (Cube Attain C:62 SLX)
+- **SmartSense integration** adds weight/complexity if you don't use it
 
 ## Gearing Detail
 
-**Critical note:** The listing doesn't specify the cassette. The Synapse Carbon 2 RL typically shipped with an 11-30 or 11-32 cassette. If it's 11-30:
-- Lowest gear = 34/30 = **1.13** — likely too hard for Alpe d'Huez (13% gradients)
-- You'd need an 11-34 cassette swap (+€60-100) to get 1:1
-
-Verify with the dealer before purchasing.
+Confirmed: **50/34 + 11-34** = **1:1 lowest gear** ✓. No cassette swap needed for Alpe d'Huez. At 60 rpm on the steepest 13% sections you'll be doing ~5.5 km/h.
 
 ## Comparison to Cube Attain C:62 SLX (€2,499)
 
@@ -66,17 +64,17 @@ Verify with the dealer before purchasing.
 | **Price** | €2,899 | **€2,499** (€400 less) |
 | **Groupset** | Ultegra 2×11 mech | **105 Di2** (electronic) |
 | **Weight** | ~8.5-8.8 kg | 8.4 kg |
-| **Tyre clearance** | ~32-35 mm | 34 mm |
-| **Gearing** | 50/34 + ? (need 11-34 min) | **50/34 + 11-34** (1:1 ✓) |
+| **Tyre clearance** | ~35 mm | 34 mm |
+| **Gearing** | 50/34 + 11-34 (1:1 ✓) | 50/34 + 11-34 (1:1 ✓) |
 | **Warranty** | Dealer (likely limited) | **6 years** (Cube) |
 
-The Cube is cheaper, has **electronic shifting**, confirmed 1:1 gearing, and a longer warranty. The Cannondale has an Ultegra groupset (mechanical) and SmartSense, but needs cassette verification for Alpe d'Huez.
+The Cube is cheaper, has **electronic shifting**, and a longer warranty. The Cannondale has an Ultegra groupset (mechanical upgrade over 105) and SmartSense integrated lights/radar.
 
 ## Verdict
 
-**Best for:** Cannondale fans who want Ultegra mechanical shifting and don't mind paying near the top of budget. Verify the cassette before buying — if it's 11-30, budget an extra €60-100 for a cassette swap.
+**Best for:** Cannondale fans who want Ultegra mechanical shifting and don't mind paying near the top of budget. The 1:1 gearing is confirmed, no cassette swap needed.
 
-**Skip if:** You want electronic shifting (Cube Attain C:62 SLX is cheaper with Di2), or you need confirmed 1:1 gearing out of the box.
+**Skip if:** You want electronic shifting (Cube Attain C:62 SLX is €400 less with Di2).
 
 ---
 

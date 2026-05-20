@@ -1,5 +1,7 @@
 # Merida Scultura Endurance 4000 — New from Dealer
 
+![Merida Scultura Endurance 4000](https://merida-cdn.m-c-g.net/merida-v2/crud-zoom-img/master/bikes/2026/SCULTURA_ENDURANCE_4000_bluslv_MY26.tif?p1)
+
 **Price:** €2,399  
 **Seller:** Bike Totaal de Jong (Wommels, 18 yr on Marktplaats)  
 **Condition:** New  

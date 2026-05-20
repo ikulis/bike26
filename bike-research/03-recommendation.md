@@ -14,8 +14,8 @@
 - Direct order only (canyon.com/nl-nl)
 - No local dealer support
 
-### 3. Best Lightest: **Koga Roqa Prestige — ~€2,699**
-- **7.9 kg** + **45mm tyre clearance**
+### 3. Best Clearance: **Koga Roqa Prestige — ~€1,999–€2,399**
+- **45mm tyre clearance** (class-leading) + **8.9 kg**
 - Dutch brand (great dealer support in NL)
 - Can ride road to light gravel
 - Shimano 105 mechanical
@@ -43,7 +43,7 @@ What's most important?
 ├─ Pure value → **Canyon Endurace CF 7 AXS** (€2,499, wireless + power meter)
 │  └─ Don't want direct order? → Cube Attain C:62 SLX
 │
-├─ Light weight + versatility → **Koga Roqa Prestige** (7.9 kg, 45mm tyres)
+├─ Max tyre clearance → **Koga Roqa Prestige** (45mm, €1,999)
 │
 ├─ Comfort on bad roads → **Specialized Roubaix SL8 Sport** (Future Shock)
 │

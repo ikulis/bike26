@@ -1,6 +1,6 @@
 # Koga Roqa Carbon Prestige — New from Dealer
 
-![Koga Roqa Carbon Prestige](https://www.koga.com/files/1/5/2/1/1/roqa%20prestige.jpg)
+![Koga Roqa Carbon Prestige](../images/koga-roqa-carbon-prestige.jpg)
 
 **Price:** €1,999–€2,399 (multiple dealer listings)  
 **Seller:** Fietscentrum Zuidlaren (€1,999) / Fietsshop Kuijper Sassenheim (€2,399)  

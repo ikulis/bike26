@@ -221,3 +221,18 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 - Aluminium TT bikes (Cube Aerium HPA) — heavy and uncomfortable
 - Very old carbon frames (pre-2015) — unknown fatigue, no warranty
 - Canyon Endurace with rim brakes — good bikes but disc is safer for alpine descents
+
+## Sources
+
+- [Marktplaats.nl](https://www.marktplaats.nl) — all listing prices verified May 2026
+- [Bikeflip.com](https://www.bikeflip.com) — additional used bike listings
+- [2dehands.be](https://www.2dehands.be) — Belgian market cross-reference
+- [opticycles.com](https://www.opticycles.com) — used bike pricing reference
+- [Cube Attain Marktplaats search](https://www.marktplaats.nl/q/cube+attain/)
+- [Canyon Endurace Marktplaats search](https://www.marktplaats.nl/q/canyon+endurace/)
+- [Giant Defy Marktplaats search](https://www.marktplaats.nl/q/giant+defy/)
+- [Specialized Roubaix Marktplaats search](https://www.marktplaats.nl/q/specialized+roubaix/)
+- [Trek Domane Marktplaats search](https://www.marktplaats.nl/q/trek+domane/)
+- [Cannondale Synapse Marktplaats search](https://www.marktplaats.nl/q/cannondale+synapse/)
+- [Koga Roqa Marktplaats search](https://www.marktplaats.nl/q/koga+roqa/)
+- [Merida Scultura Endurance Marktplaats search](https://www.marktplaats.nl/q/merida+scultura+endurance/)

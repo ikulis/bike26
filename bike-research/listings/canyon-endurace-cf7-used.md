@@ -1,6 +1,6 @@
 # Canyon Endurace CF 7 — Used, ~€1,900
 
-![Canyon Endurace CF 7](https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwimages/products/road/endurace/cf/2022/endurace-cf-7-disc/endurace-cf-7-disc-p1920.png)
+![Canyon Endurace CF 7](../images/canyon-endurace-cf7.png)
 
 ## Specs
 

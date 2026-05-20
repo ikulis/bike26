@@ -1,6 +1,6 @@
 # Cannondale Synapse Carbon 2 RL — New from Dealer
 
-![Cannondale Synapse Carbon 2 RL](https://www.uprisebikes.com/images/C12251UBLK.png)
+![Cannondale Synapse Carbon 2 RL](../images/cannondale-synapse-carbon-2-rl.png)
 
 **Price:** €2,899 (was €4,699)  
 **Seller:** Rijwielshop Elfring (Wehl, 19 yr on Marktplaats)  

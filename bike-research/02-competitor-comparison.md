@@ -102,3 +102,19 @@
 - Shimano 105 mechanical, ~9.2 kg
 - Cheapest full-carbon + 105 option
 - Sold via Mantel.com
+
+## Sources
+
+- [Cube Attain C:62 SLX — cube.eu](https://www.cube.eu/nl-nl/cube-attain-c-62-slx-silver-arrow/125600)
+- [Canyon Endurace CF 7 — canyon.com](https://www.canyon.com/nl-nl/racefietsen/endurance-bikes/endurace/)
+- [Giant Defy Advanced — giant-bicycles.com](https://www.giant-bicycles.com/nl/defy-advanced)
+- [Trek Domane SL 5 Gen4 — trekbikes.com](https://www.trekbikes.com/nl/nl_NL/fietsen/racefietsen/domane/domane-sl/domane-sl-5-gen-4/)
+- [Specialized Roubaix SL8 — specialized.com](https://www.specialized.com/nl/nl/roubaix)
+- [Merida Scultura Endurance — merida-bikes.com](https://www.merida-bikes.com/en/bikes/road/scultura-endurance/)
+- [Van Rysel EDR CF — decathlon.nl](https://www.decathlon.nl/browse/van-rysel-racefietsen/_/N-1fq9m2l)
+- [Bianchi Infinito — bianchi.com](https://www.bianchi.com/nl/fietsen/infinito/)
+- [BMC Roadmachine — bmc-switzerland.com](https://www.bmc-switzerland.com/nl-nl/fietsen/roadmachine/)
+- [Koga Roqa Prestige — koga.com](https://www.koga.com/nl/fietsen/roqa)
+- [Cannondale Synapse — cannondale.com](https://www.cannondale.com/nl-nl/fietsen/synapse)
+- [Sensa Giulia GF — sensa.nl](https://www.sensa.nl/fietsen/giulia-gf)
+- Prices verified against Marktplaats.nl dealer listings, May 2026

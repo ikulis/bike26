@@ -6,6 +6,8 @@ Not a spec sheet. Real explanations of what each feature actually means for you 
 
 ## 1. Frame Material: Carbon vs Aluminium
 
+![Bicycle frame diagram](images/bicycle-diagram.svg)
+
 | Factor | Carbon | Aluminium |
 |---|---|---|
 | **Weight** | 8.0-9.2 kg | 9.0-10.5 kg |
@@ -44,11 +46,29 @@ Not a spec sheet. Real explanations of what each feature actually means for you 
 
 **Verdict:** Nice-to-have, not essential. If the budget choice is between Di2 and a better wheelset, take the wheels. If the budget choice is between Di2 and nothing, get the Di2 — it's a genuine quality-of-life improvement over a 5-hour bike leg.
 
+![Shimano STI shifter diagram — mechanical (cable) vs electronic (button)](images/shimano-sti-diagram.svg)
+
 **Common myth:** "Electronic shifting is unreliable and will fail mid-race." Reality: Di2 failure is extremely rare. The battery lasts 2,000-5,000 km. Most failures are caused by physical damage (crash) or running the battery dead. Charge it before the race and you'll be fine.
+
+### What About Dura-Ace?
+
+Dura-Ace is Shimano's top-tier groupset, sitting above Ultegra and 105 in the hierarchy:
+
+| | 105 | Ultegra | Dura-Ace |
+|---|---|---|---|
+| **Price (groupset)** | ~€600 | ~€900 | ~€2,000 |
+| **Weight** | ~2,800g | ~2,600g | ~2,400g |
+| **Shifting quality** | Excellent | Excellent + slightly crisper | Excellent + marginally crisper |
+| **Durability** | Very high | Very high | High (lighter = less robust) |
+
+Dura-Ace saves ~200g over Ultegra and ~400g over 105 at **double to triple the cost**. On the Alpe d'Huez course, 200g saves roughly 40 seconds over 5 hours. Not worth €1,100+ unless you're racing for a podium. 105 or Ultegra is the right choice for an Ironman where comfort and reliability matter more than marginal grams.
 
 ---
 
 ## 3. Brakes: Disc vs Rim
+
+![Hydraulic disc brake diagram (animated)](images/disc-brake-diagram.gif)
+![Rim brake (V-brake) diagram](images/rim-brake-drawing.jpg)
 
 | Factor | Hydraulic Disc | Rim Brake |
 |---|---|---|
@@ -98,6 +118,27 @@ On rough alpine roads, a 35mm tyre at lower pressure:
 **Drawback of wide clearance (Giant Defy 40mm):** The frame is slightly heavier and less aerodynamic with wider fork legs. On a pure fast group ride, a 28mm bike would be 5-10W faster. But at your pace and for comfort, the Defy's clearance is an advantage.
 
 **Recommendation:** If riding comfort is your #1 priority, prioritize a bike with ≥35mm tyre clearance. The Giant Defy (40mm) is the standout here.
+
+![Bicycle wheel cross-section — clincher (left) and tubular (right)](images/wheel-cross-sections.svg)
+
+### Tubular vs Clincher vs Tubeless
+
+Three tyre types you'll encounter:
+
+| | Clincher | Tubeless | Tubular |
+|---|---|---|---|
+| **How it works** | Inner tube inside tyre | Tyre seals directly to rim (no tube) | Tyre glued to rim (no tube, no bead) |
+| **Roadside repair** | Swap tube (5 min) | Plug hole or re-seal (10-15 min) | **Impossible** — must replace entire tyre |
+| **Puncture resistance** | Moderate | Best — sealant seals small holes | Moderate |
+| **Rolling resistance** | Good | Best — no tube friction | Excellent |
+| **Weight** | Heavy (tube + tyre) | Light (no tube) | **Lightest** |
+| **Rim compatibility** | Standard hook bead | Hookless or hooked (must match) | **Special tubular rim only** |
+| **Common where** | Everywhere | Increasingly standard on new bikes | Pro racing, old-school TT bikes |
+| **Cost** | Cheapest | Mid | **Most expensive** |
+
+**Tubulars** (also called "tubs" or "sew-ups") are the traditional pro racing tyre — the tyre is stitched around the tube and glued onto a special rim. They're light and you can ride them flat to a wheel pit, but **you cannot fix a puncture roadside**. You carry a spare tubular (folded) and replace the whole tyre.
+
+**For Alpe d'Huez:** Tubeless or clincher only. If you buy a used bike with tubular wheels, budget €300-600 to swap the wheelset. Riding a tubular race is risky — one puncture on a descent and you're walking down the mountain.
 
 ---
 
@@ -180,6 +221,26 @@ Alpe d'Huez has sections at **11-13% gradient**. Here's what different gears fee
 
 **What to budget:** €400-800 for used carbon wheels, or €600-1,200 for new entry-level.
 
+### Deep Section Wheels (>60mm) — Why Skip for This Course
+
+Deep section wheels have tall rims (60-80mm+) designed for aerodynamics. The taller the rim, the more it slices through the air at high speed — but there are trade-offs:
+
+| Depth | Aero gain | Weight | Crosswind handling | Best use |
+|---|---|---|---|---|
+| **25-35mm** (shallow) | Minimal | Lightest | Stable | Climbing |
+| **40-55mm** (mid) | Good | Moderate | Manageable | All-round |
+| **60-80mm** (deep) | Excellent | Heavy | Twitchy | Flat TT/tri |
+| **Disc wheel** | Maximum | Heaviest | Very twitchy | Indoor/pursuit |
+
+On Alpe d'Huez, **deep wheels hurt more than they help**:
+
+- **Crosswinds on descents:** The course has exposed alpine descents where crosswinds catch deep rims like a sail. At 70km/h, a gust can push you into the next lane — dangerous on narrow mountain roads with drop-offs.
+- **Weight on climbs:** Deep rims weigh 200-400g more than shallow. On 3,200m of climbing, that costs ~1-2 minutes.
+- **Low-speed aero penalty:** Below 30km/h (which is most of the climbing), deep rims provide negligible aero benefit. On Alpe d'Huez, your average climbing speed will be 10-15km/h.
+- **Stock Cube/Defy wheels are 35mm:** That's already adequate. Upgrade to 45-50mm if you want, but don't go deeper than 55mm.
+
+**If you already own deep section wheels:** Swap the front to a shallower rim (40-50mm) for stability, keep a deeper rear if you want. Many riders run a 50mm front + 60mm rear combo as a compromise.
+
 ---
 
 ## 8. Weight — Obsessing Over Grams
@@ -235,7 +296,7 @@ On the full 118km course, weight matters about **2 seconds per kg per km of clim
 | Item | Why |
 |---|---|
 | **TT/Tri bike** | Heavier, worse climbing, worse descending, uncomfortable |
-| **Deep section wheels (>60mm)** | Crosswind issues on descents, marginal gain on climbs |
-| **Dura-Ace over Ultegra/105** | Costs double, saves 200g — not worth it for Ironman |
-| **Tubular tyres** | Impossible to fix roadside. Stick with tubeless or clincher |
+| **Deep section wheels (>60mm)** | See §7 — twitchy in alpine crosswinds, heavy on climbs, <30km/h aero penalty |
+| **Dura-Ace over Ultegra/105** | See §2 — €1,100+ extra for ~40 seconds over 5h. Not worth it |
+| **Tubular tyres** | See §4 — glued to rim, no roadside repair. Budget €300-600 to swap wheels |
 | **The lightest possible build** | Shaving 500g costs €1000+ for 2 minutes gain |

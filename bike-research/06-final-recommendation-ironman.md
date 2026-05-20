@@ -133,3 +133,11 @@ The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Ca
 - `cube attain c:62` — to find a carbon Attain under €1,800
 - `canyon endurace di2` — for an endurance bike with electronic shifting
 - `giant defy advanced 1` — check if the €2,650 dealer deal is still up
+
+## Sources
+
+- [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
+- [Cube Attain C:62 SLX (€2,499) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx)
+- [Cube Attain C:62 Race (€1,699) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699)
+- [Canyon Endurace CF SL Ultegra Di2 (~€2,200) — Marktplaats listing](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2374264487-canyon-endurace-cf-sl-ultegra-di2-carbon-racefiets-s)
+- [Alpe d'Huez Triathlon official bike advice](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)

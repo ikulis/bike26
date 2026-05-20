@@ -1,6 +1,6 @@
 # Cube Attain C:62 Race — €1,699 (New, Dealer)
 
-![Cube Attain C:62 Race](https://file.cube.eu/azwesc1xfg346/media/e7/25/73/1754323767/synqup_125510_S_00.jpg?ts=1779165429)
+![Cube Attain C:62 Race](../images/cube-attain-c62-race.jpg)
 
 ## Specs
 

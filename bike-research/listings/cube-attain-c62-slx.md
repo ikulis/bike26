@@ -1,6 +1,6 @@
 # Cube Attain C:62 SLX — €2,499 (New, Dealer)
 
-![Cube Attain C:62 SLX](https://file.cube.eu/azwesc1xfg346/media/fb/c9/f0/1754323795/synqup_125600_S_00.jpg?ts=1779165486)
+![Cube Attain C:62 SLX](../images/cube-attain-c62-slx.jpg)
 
 ## Specs
 

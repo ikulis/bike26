@@ -1,6 +1,6 @@
 # Cube Attain GTC SL Disc — Used, ~€1,500
 
-![Cube Attain GTC SL](https://file.cube.eu/azwesc1xfg346/media/c8/5d/58/1754568619/MY26_Series_Grid_AttainHPA_800px.jpg?ts=1754568619)
+![Cube Attain GTC SL](../images/cube-attain-gtc-sl.jpg)
 
 *Image representative of the GTC SL model (aluminium frame, carbon fork)*
 

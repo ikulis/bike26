@@ -88,3 +88,11 @@ On a 5-6 hour bike leg, that's **10-15 minutes saved** even with the climbs.
 - Redshift Quick-Release
 
 **Must do:** Get a **professional bike fit** with the clip-ons installed. Position is critical for comfort and power over 180km.
+
+## Sources
+
+- [Alpe d'Huez Triathlon official site](https://www.alpetriathlon.com/)
+- [France Bike Rentals — choosing the right bike](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)
+- [France Bike Rentals — bike hire service](https://www.alpetriathlon.com/bike-hire-with-france-bike-rentals-an-optimum-solution/?lang=en)
+- [Race rules and course details](https://www.alpetriathlon.com/rules-alpe-dhuez-triathlon/?lang=en)
+- Gearing recommendations from Shimano, SRAM, and bike fitter consensus for alpine triathlon

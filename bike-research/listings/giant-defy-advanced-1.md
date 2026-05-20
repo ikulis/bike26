@@ -1,6 +1,6 @@
 # Giant Defy Advanced 1 — €2,650 (New, Dealer) ⭐ Best Deal
 
-![Giant Defy Advanced](https://www.giant-bicycles.com/_upload/images/models/2025/DefyAdvanced1_My25_FrostSilver_Color_A.png)
+![Giant Defy Advanced](../images/giant-defy-advanced-1.png)
 
 ## Specs
 

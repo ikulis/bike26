@@ -85,6 +85,14 @@ Cube NL prices include 21% Dutch VAT. All models have disc brakes, thru-axles, e
 ## Reviews Summary
 
 - **BikeRadar:** "Best-priced Ultegra Di2-equipped bike on sale today" (C:62 SLT, 4.5/5)
-- **Roadbike magazine 05/2025:** Winner price-performance test
+- **TOUR magazine 01/2026:** "Inexpensive electric shifting" — grade 2.3, praised value and spec
 - **Praised:** Spec-for-money, comfort, handling, wide size range
 - **Criticized:** Limited tyre clearance (34mm max) vs modern all-road standards
+
+## Sources
+
+- [Cube Attain series — cube.eu](https://www.cube.eu/bikes/road/road-race/attain)
+- [Cube Attain C:62 SLX Dutch product page](https://www.cube.eu/nl-nl/cube-attain-c-62-slx-silver-arrow/125600)
+- [Cube Attain C:62 Race Dutch product page](https://www.cube.eu/nl/cube-attain-c-62-race-blackline/125500)
+- [TOUR magazine review (English)](https://www.tour-magazin.de/en/marathon-bike-endurance-road-bike/inexpensive-electric-shifting-the-cube-attain-c-62-slx-in-an-individual-test/)
+- [BIKE magazine review (English)](https://www.bike-magazin.de/en/marathon-bike-endurance-road-bike/cube-attain-c-62-slx-inexpensive-road-bike-with-electric-shimano-105-di2-on-test/)

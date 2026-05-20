@@ -1,6 +1,6 @@
 # Canyon Endurace CF SL 8.0 Di2 — Used, ~€2,200
 
-![Canyon Endurace CF SL](https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwimages/products/road/endurace/cf-sl/2020/endurace-cf-sl-disc-8-di2/endurace-cf-sl-disc-8-di2-p1920.png)
+![Canyon Endurace CF SL](../images/canyon-endurace-cf-sl-di2.png)
 
 ## Specs
 

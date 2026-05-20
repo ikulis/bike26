@@ -115,9 +115,75 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 | **Giant Defy Advanced Pro 1** used | ~€2,300 | Ultegra Di2, carbon, ML, good condition |
 | **Giant Defy Advanced 2** used (L) | ~€1,800-2,000 | Carbon, 105, disc — available |
 
+### Merida Scultura Endurance — New & Used on Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Scultura Endurance 4000** new (dealer) | **€2,399** | 2026, CF3 carbon, 105 2×12 mech, disc, 50/34 + 11-34 (1:1 ✓), 9.3 kg |
+| **Scultura Endurance 6000** used | ~€2,200 | CF3 carbon, 105 Di2, disc — good Di2 option |
+| **Scultura Endurance 5000** used | ~€1,800 | Carbon, 105 mech, disc, endurance geometry |
+
+**Merida verdict for Alpe d'Huez:** The €2,399 new 4000 model is a solid contender — full carbon, 1:1 gearing out of the box, 35 mm clearance, endurance geometry. The main downside vs Cube Attain C:62 SLX at €2,499 is mechanical shifting (vs Di2) and 0.9 kg heavier.
+
+### Koga Roqa — New on Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Roqa Carbon Prestige** new (dealer) | **€1,999** | ★ CHEAPEST NEW CARBON — endurance model, 105 2×12, disc, 45 mm clearance, 8.9 kg |
+| **Roqa Carbon Prestige** new (dealer, 51 cm) | **€2,399** | Same bike, different seller, smaller frame size |
+
+**Koga verdict for Alpe d'Huez:** At €1,999 this is the cheapest new carbon endurance bike with disc brakes by a wide margin. The **45 mm tyre clearance** is class-leading. 1:1 gearing out of the box. Downsides: mechanical 105 (not Di2), 8.9 kg, and limited to size L on the cheapest listing.
+
+### Specialized Roubaix — Used on Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Roubaix Comp Disc 2020** (54 cm) | **€1,795** | Ultegra, disc, Future Shock, carbon — good value |
+| **Roubaix Comp 2021** (58 cm, 3,000 km) | **€2,400** | Ultegra mech, disc, excellent condition |
+| **Roubaix 2021 Di2** + carbon wheels (54 cm) | **€2,850** | Ultegra Di2, Roval C38 carbon wheels — top spec near budget limit |
+| **Roubaix Elite** (56 cm) | **€1,700** | Ultegra, disc — solid mid-range option |
+| **Roubaix Expert DI2 2018** (56 cm) | **€1,600** | Older but Di2, check cassette gearing |
+| **Roubaix SL8 Sport Apex 2024** (61 cm) | **€2,000** | Newer model, SRAM Apex, 12-speed — check gearing |
+| **Roubaix Sport** new (dealer, €3,499 → €1,999) | **€1,999** | NEW old stock, 105 2×11, carbon — great deal if size fits |
+
+**Roubaix verdict for Alpe d'Huez:** The Future Shock suspension (20 mm travel) is a comfort advantage for 118 km days. Most Roubaix models have 40 mm tyre clearance. Priority is disc brakes + compact gearing (50/34). The €2,850 Di2 + carbon wheels model is excellent if you can stretch to it.
+
+### Trek Domane — Used & New-on-Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Domane SL 5 Gen 4** new (dealer, €3,099 → €2,599) | **€2,599** | NEW showroom model, 105 2×12, 56 cm, 38 mm clearance, IsoSpeed |
+| **Domane SL 6 Gen 4** used (56 cm, 500 km) | **€2,600** | 105 Di2, Gen 4 frame, as new |
+| **Domane SL 6 Gen 4** refurbished (M) | **€2,899** | 105 Di2, 15 months warranty |
+| **Domane SL 6 Gen 3** (58 cm, 2020) | **€2,000** | Ultegra mech, disc — older but well specced |
+| **Domane SL 5** (54 cm, 2023, 3,000 km) | **€2,000** | 105 mech, disc, 38 mm clearance |
+| **Domane SL 5** (M, 2022, 1,000 km) | **€2,250** | 105 mech, disc, barely used |
+
+**Domane verdict for Alpe d'Huez:** The IsoSpeed decoupler is unique for comfort on alpine descents. 38 mm tyre clearance is generous. The **€2,599 new SL 5 Gen 4** is a strong deal — new bike with warranty at €2,599 with 105 2×12, hydraulic disc, and IsoSpeed. For Di2, the **€2,600 SL 6 Gen 4 used** is excellent value.
+
+### Cannondale Synapse — Used & New-on-Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Synapse Carbon 2 RL** new (dealer, €4,699 → €2,899) | **€2,899** | NEW, Ultegra 2×11 mech, disc, 56/58/61 cm, SmartSense |
+| **Synapse Carbon 5** new (dealer) | **€2,699** | NEW, 105 2×12, disc, 56 cm |
+| **Synapse Ultegra Di2** (56 cm, used) | **€1,950** | Ultegra Di2, carbon, disc — potential bargain |
+| **Synapse Carbon Disc Ultegra** (54 cm, used) | **~€1,500** | Carbon, Ultegra, disc — budget option |
+| **Synapse Carbon Disc 105** (61 cm, 2019) | **~€1,250** | Carbon, 105, disc — older but affordable |
+| **Synapse Carbon 2 LE 105 Di2** new (dealer, 56 cm) | **€3,399** | Over budget but 105 Di2 — overpriced vs Cube |
+
+**Synapse verdict for Alpe d'Huez:** Classic endurance geometry with good comfort. The new **€2,699 Carbon 5** with 105 2×12 is competitive with the Cube Attain but without Di2. Verify cassette on any used model — older Synapse models shipped with 11-28 or 11-30 cassettes which won't cut it for Alpe d'Huez without a swap.
+
 ### What This Means For You
 
-**Best deal on Marktplaats right now:**
+**Cheapest new carbon endurance bike on Marktplaats:**
+**Koga Roqa Carbon Prestige — €1,999 new** from Fietscentrum Zuidlaren.
+- €1,000 off RRP, full warranty, Dutch brand
+- Carbon frame, 105 2×12 mech, disc brakes, **45 mm clearance**
+- 1:1 gearing (50/34 + 11-34) ready for Alpe d'Huez
+- 8.9 kg — heavier than premium options but incredible value
+
+**Best all-round deal on Marktplaats right now:**
 **Giant Defy Advanced 1 — €2,650 new** from a dealer on Marktplaats.
 - 2025 model, 105 Di2 electronic shifting
 - Carbon frame, 8.7 kg, **40mm tyre clearance**
@@ -135,12 +201,18 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 ### What to Actually Search on Marktplaats
 
 | Search Term | Best Results |
-|---|---|
+|---|---|---|
 | `cube attain c:62` | Carbon Attain models (best for Ironman) |
 | `cube attain slx` | Aluminium, cheaper |
 | `canyon endurace di2` | Used electronic shifting endurance bikes |
 | `canyon endurace cf sl` | Carbon Endurace — sweet spot |
 | `giant defy advanced 1` | Best new deal right now |
+| `merida scultura endurance` | Merida endurance (€2,399 new dealer) |
+| `specialized roubaix disc` | Roubaix with Future Shock + discs |
+| `trek domane sl 5` | Domane Gen4 (from €2,000 used) |
+| `trek domane sl 6` | Domane with Di2 (used ~€2,600) |
+| `cannondale synapse carbon` | Synapse endurance (new from €2,699) |
+| `koga roqa prestige` | Koga endurance/gravel (from €1,999 new) |
 | `endurance racefiets` | Broad search for comfort geometry |
 | `triathlon fiets 2000` | TT bikes in range |
 

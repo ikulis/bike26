@@ -16,7 +16,8 @@
 | Van Rysel EDR CF 105 | ~2,499 | Hi-mod Carbon | 105 | Mechanical | ~8.5 kg | 38mm | **Carbon wheels** |
 | Bianchi Infinito 105 | 2,649–2,699 | Carbon | 105 | Mechanical | ~9.0 kg | 32mm | Carbon wheels, Italian |
 | BMC Roadmachine Three | ~2,999 | Carbon | 105 | Mechanical | ~9.1 kg | ~35mm | Swiss, integrated cockpit |
-| Koga Roqa Prestige | ~2,699 | Carbon | 105 | Mechanical | **7.9 kg** | **45mm** | Lightest + gravel capable |
+| Koga Roqa Prestige | **1,999** (MP) | Carbon | 105 | Mechanical | 8.9 kg | **45mm** | Best clearance + Dutch brand |
+| Cannondale Synapse Carbon 5 | **2,699** (MP) | Carbon | 105 | Mechanical | ~8.7 kg | 35mm | SmartSense lights incl. |
 | Sensa Giulia GF Tour | 1,999 | Carbon Gen5 | 105 | Mechanical | ~9.2 kg | ~35mm | Cheapest carbon + 105 |
 
 ---
@@ -75,11 +76,20 @@
 - Pirelli Cinturato Velo TLR 32mm tyres
 - Italian heritage, ~9.0 kg
 
-### Koga Roqa Prestige — ~€2,699
-- **Only 7.9 kg** — tied for lightest in class
-- **45mm tyre clearance** — can run gravel tyres
-- Dutch brand, DT Swiss E1800 wheels
-- Most versatile — road to light gravel
+### Koga Roqa Prestige — €1,999 on Marktplaats (new)
+- **Cheapest new carbon endurance bike available**
+- **45mm tyre clearance** — class-leading, can run gravel tyres
+- 105 2×12 mechanical, hydraulic disc, DT Swiss P1800 wheels
+- Dutch brand, 24-month warranty
+- 8.9 kg — heavier than the 7.9 kg quoted by some retailers
+- Available from Fietscentrum Zuidlaren (maat L) and Fietsshop Kuijper (51 cm)
+
+### Cannondale Synapse Carbon 5 — €2,699 on Marktplaats (new)
+- Full carbon frame with SmartSense (integrated lights)
+- Shimano 105 2×12 mechanical, hydraulic disc
+- Classic endurance geometry — proven comfort
+- ~35 mm clearance, ~8.7 kg
+- Available from multiple Dutch dealers on Marktplaats
 
 ### BMC Roadmachine Three — ~€2,999
 - Swiss brand, Tuned Compliance Concept

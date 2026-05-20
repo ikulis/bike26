@@ -8,6 +8,7 @@
 
 | File | Content |
 |---|---|
+| [07-feature-comparison-guide.md](07-feature-comparison-guide.md) | Why features matter — gearing, brakes, Di2, weight, etc. explained |
 | [01-cube-attain-series-details.md](01-cube-attain-series-details.md) | Cube Attain specs, prices, and reviews |
 | [02-competitor-comparison.md](02-competitor-comparison.md) | New bike competition in NL (€2k–€3k) |
 | [03-recommendation.md](03-recommendation.md) | General road bike recommendation |

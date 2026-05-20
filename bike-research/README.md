@@ -15,6 +15,19 @@
 | [05-used-bike-comparison-NL.md](05-used-bike-comparison-NL.md) | Used market analysis for NL (TT + road) |
 | [06-final-recommendation-ironman.md](06-final-recommendation-ironman.md) | Final verdict for Ironman use |
 
+## Bike Listing Pages (with Marktplaats links)
+
+| Bike | Price | Link |
+|---|---|---|
+| **Cube Attain C:62 SLX** (new) | €2,499 | [View listing →](listings/cube-attain-c62-slx.md) |
+| **Cube Attain C:62 Race** (new) | €1,699 | [View listing →](listings/cube-attain-c62-race.md) |
+| **Giant Defy Advanced 1** (new) ⭐ | €2,650 | [View listing →](listings/giant-defy-advanced-1.md) |
+| **Cube Attain GTC SL** (used) | ~€1,500 | [View listing →](listings/cube-attain-gtc-sl-used.md) |
+| **Canyon Endurace CF SL Di2** (used) | ~€2,200 | [View listing →](listings/canyon-endurace-cf-sl-di2-used.md) |
+| **Canyon Endurace CF 7** (used) | ~€1,900 | [View listing →](listings/canyon-endurace-cf7-used.md) |
+
+[All listings overview →](listings/index.md)
+
 ## TL;DR
 
 **New Cube Attain C:62 SLX (€2,499) + clip-on tri bars + bike fit = ~€2,800.**

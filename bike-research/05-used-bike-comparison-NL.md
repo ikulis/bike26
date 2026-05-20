@@ -79,16 +79,73 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 ---
 
-## Best Used Deals on Marktplaats Right Now (May 2026)
+## Actual Marktplaats Listings Found (May 2026)
 
-**For Alpe d'Huez specifically, these stand out:**
+### Cube Attain — Used & New-on-Marktplaats
 
-1. **Used Cube Attain C:62** (~€1,200-1,800) — same frame you're considering, proven for this course, add clip-ons + get a bike fit
-2. **Used Canyon Endurace CF 7 Di2** (~€2,200-2,600) — lighter than Cube (8.2 kg), Di2, more tyre clearance (35mm), excellent climber
-3. **Canyon Speedmax CF 7 Disc** (~€2,500) — if you want a true tri bike, modern disc brakes, but harder gearing for the climbs
-4. **Giant Defy Advanced 2 used** (~€2,000-2,400) — 40mm clearance, very comfortable, good climber
+| Listing | Price | Details |
+|---|---|---|
+| **Cube Attain C:62 SLX** new (dealer) | **€2,499** | 2026, 105 Di2, carbon, all sizes — buy now |
+| **Cube Attain C:62 Race** new (dealer) | **€1,699** | 2026, 105 mech, carbon — cheapest new carbon |
+| **Cube Attain SLX** new (dealer) | **€1,249-1,399** | 2026, alu, 105 2x12, disc — budget pick |
+| **Cube Attain C:62 SLX** demo | ~€2,200 | 2025, lagoon black, 56cm — quick saving |
+| **Cube Attain GTC SL Disc** used | ~€1,500 | Carbon frame, 105 disc, size 56-58, 50/34 + 11-30 |
+| **Cube Attain GTC SLX** used | ~€1,600 | Carbon, "nieuwstaat", Frozenteal/black |
+| **Cube Attain SLX 2023** used (62cm) | ~€1,200 | New DT Swiss R470 + GP5000 tyres fitted |
+| **Cube Attain SL** used (56-60cm) | ~€600-1,000 | Older alu, 105, good condition |
 
-**Avoid for Alpe d'Huez:**
+### Canyon Endurace — Used on Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Canyon Endurace CF 7** (S, 2022) | **€1,900** | Carbon, 105 disc, 30mm tyres, well maintained |
+| **Canyon Endurace CF SL 8.0 Di2** (M, 2020) | **€2,200** | Ultegra Di2, disc, carbon, excellent condition |
+| **Canyon Endurace CF SL Di2** (L) | **€2,150** | Ultegra Di2, carbon, disc — great value |
+| **Canyon Endurace CF SL 7.0** (M, 2021) | ~€1,500-1,800 | Carbon, 105 disc, good condition |
+| **Canyon Endurace CF SLX 7 AXS** (M, 2024) | ~€2,650 | SRAM Rival AXS wireless, carbon, like new |
+| **Canyon Endurace CF SLX 9.0 Di2** (M, 2019) | ~€3,200 | Dura-Ace Di2, DT Swiss carbon wheels — over budget |
+| **Canyon Endurace CF 7** used | **€1,900** | See listing: "aankoopbon aanwezig, goed onderhouden" |
+
+### Giant Defy — Used & New-on-Marktplaats
+
+| Listing | Price | Details |
+|---|---|---|
+| **Giant Defy Advanced 1** NEW dealer | **€2,650** | ★ BEST DEAL — 2025, **105 Di2**, carbon, 8.7 kg, 40mm clearance, full warranty |
+| **Giant Defy Advanced 2** NEW dealer sale | **€2,199** | 2025, 105 mechanical, carbon, disc |
+| **Giant Defy Advanced Pro 1** used | ~€2,300 | Ultegra Di2, carbon, ML, good condition |
+| **Giant Defy Advanced 2** used (L) | ~€1,800-2,000 | Carbon, 105, disc — available |
+
+### What This Means For You
+
+**Best deal on Marktplaats right now:**
+**Giant Defy Advanced 1 — €2,650 new** from a dealer on Marktplaats.
+- 2025 model, 105 Di2 electronic shifting
+- Carbon frame, 8.7 kg, **40mm tyre clearance**
+- Full warranty — best of both worlds (new + discount)
+- Only €151 more than the Cube Attain C:62 SLX
+
+**Cheapest "ready to race" build:**
+**Cube Attain GTC SL Disc used (~€1,500) + clip-ons (€100) + service (€150) = ~€1,750**
+- Carbon frame, Shimano 105 disc, 50/34 + 11-30 (fine for Alpe d'Huez)
+- Add a power meter later if wanted
+
+**If you want Di2 for under €2,500:**
+**Canyon Endurace CF SL 8.0 Di2 used (€2,200)** — Ultegra Di2, carbon, disc brakes. Older (2020) but high-end spec. Or **Giant Defy Advanced 1 new (€2,650)** — slightly over but new with warranty.
+
+### What to Actually Search on Marktplaats
+
+| Search Term | Best Results |
+|---|---|
+| `cube attain c:62` | Carbon Attain models (best for Ironman) |
+| `cube attain slx` | Aluminium, cheaper |
+| `canyon endurace di2` | Used electronic shifting endurance bikes |
+| `canyon endurace cf sl` | Carbon Endurace — sweet spot |
+| `giant defy advanced 1` | Best new deal right now |
+| `endurance racefiets` | Broad search for comfort geometry |
+| `triathlon fiets 2000` | TT bikes in range |
+
+### Avoid for Alpe d'Huez
 - Old TT bikes with rim brakes and 53/39 + 11-25 gearing (you'll struggle on climbs)
 - Aluminium TT bikes (Cube Aerium HPA) — heavy and uncomfortable
 - Very old carbon frames (pre-2015) — unknown fatigue, no warranty
+- Canyon Endurace with rim brakes — good bikes but disc is safer for alpine descents

@@ -123,6 +123,13 @@ Budget: €2,000–€3,000
 
 ## Bottom Line
 
-**New Cube Attain C:62 SLX + clip-ons = best overall package for Alpe d'Huez Ironman within budget.**
+**New Cube Attain C:62 SLX (€2,499) or Giant Defy Advanced 1 (€2,650 from Marktplaats dealer) + clip-ons = best overall package for Alpe d'Huez Ironman within budget.**
 
-The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Giant Defy Advanced 2** in excellent condition at a significant discount. For a used TT bike, unless you mostly race flat Ironmans, skip it for this race.
+⚠️ **Right now on Marktplaats:** a dealer is selling **new Giant Defy Advanced 1 with 105 Di2 for €2,650**. That's €151 more than the Cube for a bike with 40mm tyre clearance, same 105 Di2 groupset, and full warranty. Worth a look.
+
+The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Canyon Endurace CF SL 8.0 Di2** in excellent condition under €2,200. For a used TT bike, unless you mostly race flat Ironmans, skip it for this race.
+
+**If buying used on Marktplaats, target these searches:**
+- `cube attain c:62` — to find a carbon Attain under €1,800
+- `canyon endurace di2` — for an endurance bike with electronic shifting
+- `giant defy advanced 1` — check if the €2,650 dealer deal is still up

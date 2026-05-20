@@ -243,7 +243,95 @@ On Alpe d'Huez, **deep wheels hurt more than they help**:
 
 ---
 
-## 8. Weight — Obsessing Over Grams
+## 8. Transport & Travel — Packing for Alpe d'Huez
+
+You're riding from the Netherlands to the French Alps. That means car, train, or plane. How easy a bike packs affects your pre-race stress.
+
+### Wheel Removal (All Disc Bikes)
+
+All bikes here use **thru-axles** — slide out, wheel comes off. Universal:
+
+| Step | Time | Tool needed |
+|---|---|---|
+| Remove front wheel | 10 sec | 5mm/6mm hex (or lever on some) |
+| Remove rear wheel | 15 sec | Same hex key |
+| Reinstall | 20 sec each | None (finger-tight + ¼ turn) |
+
+**⚠️ Critical for disc brakes:** When the wheel is off, **do not squeeze the brake lever** — the caliper pistons will push out and may need resetting. Use the plastic **pad spacer** that came with the bike. If lost, fold a thick business card between the pads.
+
+### Cockpit: Integrated vs Standard
+
+| Type | Example bikes | Packing ease |
+|---|---|---|
+| **Standard stem + round bars** | Cube Attain, Giant Defy, Merida Scultura, Koga Roqa | ★★★★★ — remove 4 bolts, bars come off. 5 min |
+| **Semi-integrated (cables hidden)** | Cannondale Synapse, Canyon Endurace | ★★★★☆ — cables run into stem, need to disconnect. 10 min |
+| **Fully integrated (Canyon one-piece)** | Canyon Endurace CF SLX (some models) | ★★★☆☆ — proprietary, need to mark position, harder to adjust |
+
+**Bike case tip:** Standard round bars can be turned sideways in the case. Wide flare gravel bars (Koga 45mm) need a wider case.
+
+### Seatpost: Round vs Aero
+
+| Shape | Example | How to pack |
+|---|---|---|
+| **Round 27.2mm** | Cube Attain C:62 SLX/Race, Merida Scultura | ★★★★★ — loosen clamp, slide down. Mark height with tape. |
+| **Round 27.2mm (carbon)** | Cube, Cannondale Synapse | ★★★★☆ — same but use torque wrench on reassembly |
+| **Round 31.8mm** | Koga Roqa | ★★★★★ — same as 27.2mm |
+| **D-shaped** | Giant Defy (D-Fuse) | ★★★☆☆ — must mark exact rotation, clamp is specific |
+| **Special (VCLS 2-piece)** | Canyon Endurace | ★★★★☆ — flip-head mechanism, note the position |
+
+### Frame Material & Travel
+
+| Material | Airline risk | Car/train | Notes |
+|---|---|---|---|
+| **Carbon** | ✅ OK in hard case; fragile in soft bag | ✅ Fine | Inspect after every flight. Hard case recommended (€200-500) |
+| **Aluminium** | ✅ Tougher, dents rather than cracks | ✅ Fine | More forgiving if the case takes a hit |
+
+### Overall Transport Ranking (for Alpe d'Huez trip)
+
+| Rank | Bike | Why | Score |
+|---|---|---|---|
+| 1 | **Cube Attain C:62 SLX** | Round seatpost, standard cockpit, lightweight (8.4 kg), carbon but robust | ★★★★★ |
+| 2 | **Cube Attain C:62 Race** | Same frame, slightly heavier (9.2 kg) | ★★★★★ |
+| 3 | **Koga Roqa Prestige** | Standard cockpit, round seatpost, heavier (8.9 kg) | ★★★★☆ |
+| 4 | **Merida Scultura Endurance 4000** | Standard cockpit, round post, but heavy (9.3 kg) | ★★★★☆ |
+| 5 | **Giant Defy Advanced 1** | Standard cockpit but D-Fuse seatpost needs care, 8.7 kg | ★★★★☆ |
+| 6 | **Cannondale Synapse C 2 RL** | SmartSense adds wiring complexity, ~8.5 kg | ★★★☆☆ |
+| 7 | **Canyon Endurace (any)** | Canyon-specific parts harder to source mid-trip if damaged, <8.6 kg | ★★★☆☆ |
+| 8 | **Trek Domane SL 5 Gen4** | IsoSpeed decoupler adds disassembly steps, heavier (9.0 kg) | ★★★☆☆ |
+
+### Easy Workarounds for the "Harder" Bikes
+
+In practice, **none of these bikes are actually hard to transport** — the differences are small. Here are the simple fixes for each quirk:
+
+| "Problem" | Workaround | Time | Cost |
+|---|---|---|---|
+| **D-Fuse seatpost (Giant Defy)** | Put a strip of electrical tape at the exposed height mark. 2 seconds. On reassembly, line up the tape. | 2 sec | €0 |
+| **IsoSpeed (Trek Domane)** | You don't need to touch it. Just remove the seatpost normally. IsoSpeed sits above the clamp. | 0 sec | €0 |
+| **VCLS flip-head (Canyon Endurace)** | Draw a line across the joint with a Sharpie before loosening. Re-align on assembly. | 5 sec | €0 |
+| **SmartSense lights (Cannondale)** | Leave them in the frame. The lights are embedded — no need to disconnect for wheel removal. | 0 sec | €0 |
+| **Carbon frame (all carbon bikes)** | Buy a hard-shell travel case (€150-300 used on Marktplaats). Soft bags are risky for carbon. | — | €150-300 |
+| **Heavy bike (9.3 kg Merida)** | A 0.9 kg difference means nothing when you're carrying a bike case. Lift with your legs. | — | €0 |
+| **Lost disc pad spacer** | Fold a thick business card or piece of corrugated cardboard to 3mm thickness. Wedge between pads. | 30 sec | €0 |
+| **Integrated cockpit (Canyon)** | Most bike travel cases (e.g., B&W, Scicon, Thule) allow you to leave the bars on — just turn them sideways and pad. | — | €0 |
+| **No torque wrench at destination** | Tighten to "firm but not cranking" feel, then visit any local bike shop for a proper check (€10-15). | — | €10-15 |
+
+**Bottom line:** Don't let "transport difficulty" drive your bike choice. All of these bikes pack in 15-20 minutes once you've done it once. The differences are minor quirks with trivial workarounds.
+
+### Packing Checklist for Alpe d'Huez
+
+| Item | Why |
+|---|---|
+| **Bike travel case** (hard shell) | Airline protection, €200-500 used on Marktplaats |
+| **Disc brake pad spacers** | Prevents piston damage during transport |
+| **Torque wrench** | Carbon components need precise tightening (4-6 Nm) |
+| **Seatpost height marker** | Tape or marker to remember your fit |
+| **Handlebar position marker** | Mark stem position with a pencil dot |
+| **Pedal wrench** | Remove pedals for a tighter pack |
+| **Rear derailleur guard** | Protects the hanger from bending in transit |
+
+---
+
+## 9. Weight — Obsessing Over Grams
 
 | Bike weight | Time penalty on Alpe d'Huez (vs 7.5kg) |
 |---|---|
@@ -262,7 +350,7 @@ On the full 118km course, weight matters about **2 seconds per kg per km of clim
 
 ---
 
-## 9. Summary — What to Prioritize for YOUR Race
+## 10. Summary — What to Prioritize for YOUR Race
 
 ### Must-Have (non-negotiable)
 

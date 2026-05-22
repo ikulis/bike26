@@ -6,6 +6,7 @@
 **Seller:** Fietscentrum Zuidlaren (€1,999) / Fietsshop Kuijper Sassenheim (€2,399)  
 **Condition:** New  
 **Link:** [View on Marktplaats (search)](https://www.marktplaats.nl/l/fietsen-en-brommers/fietsen-racefietsen/q/koga+roqa+carbon+prestige/)
+**Search (your size):** [Search NL-wide, maat 51](https://www.marktplaats.nl/q/koga+roqa+maat+51/)
 
 ---
 

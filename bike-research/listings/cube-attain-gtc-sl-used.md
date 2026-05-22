@@ -37,8 +37,8 @@
 
 | Advert | Price | Size | Link |
 |---|---|---|---|
-| Cube Attain GTC SL Disc carbon — Ultegra/105, 56cm, Fulcrum wheels | ~€1,500 | 56cm | [Search Marktplaats →](https://www.marktplaats.nl/q/cube+attain+gtc+sl/) |
-| Cube Attain SL disc — 56cm, 105, new tyres + cassette | ~€600-800 | 56cm | [Search Marktplaats →](https://www.marktplaats.nl/q/cube+attain+sl+disc/) |
-| Cube Attain SL GTC Carbon — 105 Di2 12-speed upgrade possible | ~€1,200-1,800 | various | [View dealer →](https://www.marktplaats.nl/q/cube+attain+sl+gtc/) |
+| Cube Attain GTC SL — your size | ~€1,500 | — | Search all NL, add "maat 50" | [Search NL-wide →](https://www.marktplaats.nl/q/cube+attain+gtc+sl+maat+50/) |
+| Cube Attain SL disc — your size | ~€600-800 | — | Budget option, search all NL | [Search NL-wide →](https://www.marktplaats.nl/q/cube+attain+sl+disc+maat+50/) |
+| Cube Attain GTC/SL carbon — your size | ~€1,200-1,800 | — | Search all NL, try different terms | [Search all →](https://www.marktplaats.nl/q/cube+attain+maat+50/) |
 
 **Tip:** Search `cube attain gtc sl` or `cube attain carbon disc` on Marktplaats for the best deals. Prioritize ones with "50/34" crankset and disc brakes.

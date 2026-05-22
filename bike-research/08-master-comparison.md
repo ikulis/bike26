@@ -41,6 +41,8 @@
 
 ## Used (Private / Dealer on Marktplaats)
 
+*All models below come in sizes that fit 169cm rider. Specific Marktplaats listings with wrong frame sizes have been removed; use the search links to find your size.*
+
 | | Canyon Endurace CF SL 8.0 Di2 | Canyon Endurace CF 7 | Cube Attain GTC SL Disc | Specialized Roubaix Comp 2021 | Trek Domane SL 6 Gen4 | Cannondale Synapse Ultegra Di2 | Giant Defy Advanced Pro 1 |
 |---|---|---|---|---|---|---|---|
 | **Price (MP)** | **~€2,200** | **~€1,900** | **~€1,500** | **~€2,400** | **~€2,600** | **~€1,950** | **~€2,300** |
@@ -82,7 +84,7 @@
 ## Ranking: Which Bike Should You Buy?
 
 | Rank | Bike | Total Cost Ready | Why |
-|---|---|---|---|---|
+|---|---|---|---|
 | **1** | **Cube Attain C:62 SLT** (new) | **~€3,299** ⚠️ | Ultegra Di2, carbon wheels, 7.9 kg — best spec in comparison. €299 over all-in budget but unmatched value. |
 | **2** | **Giant Defy Advanced 1** (new) | **~€2,950** | 105 Di2, 40mm clearance, 8.7 kg, full warranty — best all-rounder within all-in budget. |
 | **3** | **Cube Attain C:62 SLX** (new) | **~€2,799** | Cheapest 105 Di2, 8.4 kg, 6-year warranty. Best value well within budget. |
@@ -116,12 +118,12 @@
 - [Cube Attain C:62 SLX (€2,499) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx)
 - [Cube Attain C:62 Race (€1,699) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699)
 - [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
-- [Trek Domane SL 5 Gen4 (€2,599) — Trek dealer on Marktplaats](https://www.marktplaats.nl/q/trek+domane+sl+5+gen+4/)
+- [Trek Domane size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/trek+domane+maat+52/)
 - [Merida Scultura Endurance 4000 (€2,399) — Bike Totaal on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2373308464-nieuwe-merida-scultura-endurance-4000)
-- [Koga Roqa Carbon Prestige (€1,999) — Fietscentrum Zuidlaren on Marktplaats](https://www.marktplaats.nl/l/fietsen-en-brommers/fietsen-racefietsen/q/koga+roqa+carbon+prestige/)
-- [Cannondale Synapse Carbon 2 RL (€2,899) — Rijwielshop Elfring on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2393516834-cannondale-synapse-carbon-2-rl-framematen-56-58-en-61-nieuw)
-- [Canyon Endurace CF SL 8.0 Di2 (~€2,200) — Marktplaats listing](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2374264487-canyon-endurace-cf-sl-ultegra-di2-carbon-racefiets-s)
-- [Canyon Endurace CF 7 (~€1,900) — Marktplaats search](https://www.marktplaats.nl/q/canyon+endurace+cf+7/)
+- [Koga Roqa size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/koga+roqa+maat+51/)
+- [Cannondale Synapse size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cannondale+synapse+maat+51/)
+- [Canyon Endurace Di2 size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+di2+maat+xs/)
+- [Canyon Endurace CF 7 size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+cf+7+maat+xs/)
 - [Alpe d'Huez Triathlon official site](https://www.alpetriathlon.com/)
 - [France Bike Rentals — choosing the right bike](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)
 

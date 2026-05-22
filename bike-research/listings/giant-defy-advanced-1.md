@@ -36,7 +36,7 @@ The Defy Advanced 1 has **40mm tyre clearance** vs 34mm on the Cube — you can 
 | Seller | Price | Condition | Link |
 |---|---|---|---|
 | BikePro Fietsenwinkel (Marktplaats dealer) | €2,650 | New in box, all sizes | [View listing →](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650) |
-| Other Giant dealers | ~€2,650-2,999 | New 2025/2026 | [Search Marktplaats →](https://www.marktplaats.nl/q/giant+defy+advanced+1/) |
+| Other Giant dealers | ~€2,650-2,999 | New, size S available | [Search NL-wide (maat S) →](https://www.marktplaats.nl/q/giant+defy+maat+s/) |
 
 ## Verdict
 

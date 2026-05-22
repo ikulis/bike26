@@ -29,7 +29,7 @@
 | Seller | Price | Condition | Link |
 |---|---|---|---|
 | Mutsaars Bikes (Schijndel/Veldhoven) | €1,699 | New, all sizes | [View listing →](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699) |
-| Various dealers | ~€1,699 | New 2026 | [Search on Marktplaats →](https://www.marktplaats.nl/q/cube+attain+c+62+race/) |
+| Various dealers | ~€1,699 | New 2026, available in size 50 | [Search NL-wide (size 50) →](https://www.marktplaats.nl/q/cube+attain+c+62+race+maat+50/) |
 
 ## Budget Build Option
 

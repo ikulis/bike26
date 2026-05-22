@@ -28,8 +28,7 @@
 
 | Advert | Price | Year | Details | Link |
 |---|---|---|---|---|
-| Canyon Endurace CF 7 — Size S, 105, Disc, Carbon, 2022, aankoopbon | **€1,900** | 2022 | Well maintained, yearly service | [Search Marktplaats →](https://www.marktplaats.nl/q/canyon+endurace+cf+7/) |
-| Canyon Endurace CF 7 — Size M | ~€1,900 | 2022 | Same spec, good condition | [Search Marktplaats →](https://www.marktplaats.nl/q/canyon+endurace+cf+/) |
+| Canyon Endurace CF 7 — size XS/your size | ~€1,900 | — | Search all NL, filter by frame size | [Search NL-wide →](https://www.marktplaats.nl/q/canyon+endurace+cf+7+maat+xs/) |
 
 ## Verdict
 

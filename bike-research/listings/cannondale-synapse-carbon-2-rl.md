@@ -23,7 +23,7 @@
 | **Tyres** | Vittoria Rubino Pro 700×30C |
 | **Weight** | ~8.5-8.8 kg (est.) |
 | **Tyre clearance** | ~35 mm |
-| **Available sizes** | 56, 58, 61 cm |
+| **Available sizes** | 56, 58, 61 cm — **too large for 169cm (need 51cm)** |
 
 ## Alpe d'Huez Assessment
 

@@ -5,7 +5,8 @@
 **Price:** €2,399  
 **Seller:** Bike Totaal de Jong (Wommels, 18 yr on Marktplaats)  
 **Condition:** New  
-**Link:** [View on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2373308464-nieuwe-merida-scultura-endurance-4000)
+**Link:** [View on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2373308464-nieuwe-merida-scultura-endurance-4000) (size L — too large for 169cm)
+**Search:** [Search NL-wide, size S](https://www.marktplaats.nl/q/merida+scultura+endurance+maat+s/)
 
 ---
 

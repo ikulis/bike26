@@ -30,9 +30,11 @@
 
 | Seller | Price | Condition | Link |
 |---|---|---|---|
-| CubeStores NL | €2,999 | New 2026 | [View product →](https://www.cubestores.nl/products/cube-attain-c-62-slt-shiftmint-white?variant=51616247546199) |
-| Cube dealers NL | ~€2,999 | New 2026 | [Search on Marktplaats →](https://www.marktplaats.nl/q/cube+attain+c+62+slt/) |
+| CubeStores NL | €2,999 | New 2026, size 50 in stock | [View product →](https://www.cubestores.nl/products/cube-attain-c-62-slt-shiftmint-white?variant=51616247546199) |
+| New cube attain c:62 slt maat 50 | ~€2,999 | — | Search all NL, your size | [Search NL-wide →](https://www.marktplaats.nl/q/cube+attain+c+62+slt+maat+50/) |
 
 ## Verdict
 
 **Best-spec Attain and now within budget at €2,999.** Ultegra Di2, carbon wheels, 7.9 kg — best spec in the whole comparison. Add clip-ons (€100) + fit (€200) for ~€3,299 total. Slightly over the €3k all-in budget, but the spec is unmatched at this price.
+
+**Your size:** 50 (1.62–1.70m) — fits 169cm ✓. Size 50 is available at CubeStores.

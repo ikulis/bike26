@@ -30,7 +30,7 @@
 | Seller | Price | Condition | Link |
 |---|---|---|---|
 | Mutsaars Bikes (Schijndel/Veldhoven) | €2,499 | New, all sizes | [View listing →](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx) |
-| Various dealers | ~€2,499 | New 2026 | [Search on Marktplaats →](https://www.marktplaats.nl/q/cube+attain+c+62+slx/) |
+| Various dealers | ~€2,499 | New 2026, available in size 50 | [Search NL-wide (size 50) →](https://www.marktplaats.nl/q/cube+attain+c+62+slx+maat+50/) |
 
 ## Verdict
 

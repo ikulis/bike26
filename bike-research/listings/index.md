@@ -22,19 +22,21 @@ Click a bike to see full details, specs, and links to the actual Marktplaats lis
 | **Canyon Endurace CF SL 8.0 Di2** | ~€2,200 | Ultegra Di2 | Carbon | 8.0 kg | [View →](canyon-endurace-cf-sl-di2-used.md) |
 | **Canyon Endurace CF 7** | ~€1,900 | 105 mech | Carbon | 8.6 kg | [View →](canyon-endurace-cf7-used.md) |
 
-## How to Search on Marktplaats
+## How to Search on Marktplaats (Your Size: 169cm)
+
+Always add your frame size to the search. Examples:
 
 ```
-cube attain c:62            → Carbon Attain models
-canyon endurace di2         → Used electronic shifting
-canyon endurace cf sl       → Carbon Endurace
-giant defy advanced 1       → New/used Defy
-merida scultura endurance   → Merida endurance models
-specialized roubaix disc    → Roubaix with disc brakes
-trek domane sl 5/6          → Trek Domane carbon
-cannondale synapse carbon   → Synapse carbon models
-koga roqa prestige          → Koga endurance/gravel
-endurance racefiets         → Broad search
+cube attain c:62 maat 50        → Carbon Attain, size 50
+canyon endurace di2 maat xs     → Used electronic shifting, XS
+canyon endurace cf sl maat xs   → Carbon Endurace, XS
+giant defy maat s               → New/used Defy, size S
+merida scultura endurance maat s → Merida endurance, S
+specialized roubaix maat 52     → Roubaix, size 52
+trek domane maat 52             → Trek Domane, size 52
+cannondale synapse maat 51      → Synapse carbon, size 51
+koga roqa maat 51               → Koga endurance, size 51
+endurance racefiets             → Broad search
 ```
 
-Add filters: `Prijs: 1000 - 3000`, `Staat: als nieuw`, `Afstand: 50km`
+Filters: `Prijs: 1000 - 3000`, `Afstand: heel Nederland` (no radius)

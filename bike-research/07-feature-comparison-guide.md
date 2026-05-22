@@ -78,7 +78,7 @@ These two are much closer than either is to Dura-Ace. Both share the same Di2 el
 Dura-Ace is Shimano's top-tier groupset, sitting above Ultegra and 105 in the hierarchy:
 
 | | 105 | Ultegra | Dura-Ace |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Price (groupset)** | ~€600 | ~€900 | ~€2,000 |
 | **Weight** | ~2,800g | ~2,600g | ~2,400g |
 | **Shifting quality** | Excellent | Excellent + slightly crisper | Excellent + marginally crisper |

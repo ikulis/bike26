@@ -27,10 +27,8 @@
 ## Marktplaats Listings
 
 | Advert | Price | Year | Details | Link |
-|---|---|---|---|---|
-| Canyon Endurace CF SL Ultegra Di2 — Size S, 52/36 + 11-34, SWorks Aerofly bars | ~€2,200 | 2020 | Disc brakes, carbon, good condition | [View listing →](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2374264487-canyon-endurace-cf-sl-ultegra-di2-carbon-racefiets-s) |
-| Canyon Endurace CF SL Disc 8.0 Di2 — Size M | ~€2,200 | 2020 | 50/34 + 11-34, DT Swiss wheels | [Search for similar →](https://www.marktplaats.nl/q/canyon+endurace+di2/) |
-| Canyon Endurace CF SL Di2 — Size L | ~€2,150 | 2020 | Ultegra Di2, disc, carbon | [Search Marktplaats →](https://www.marktplaats.nl/q/canyon+endurace+cf+sl+di2/) |
+|---|---|---|---|---|---|
+| Canyon Endurace CF SL Di2 — search size XS | ~€2,200 | — | Search all NL, your size (1.66–1.74m) | [Search NL-wide →](https://www.marktplaats.nl/q/canyon+endurace+di2+maat+xs/) |
 
 ## What to Watch For
 

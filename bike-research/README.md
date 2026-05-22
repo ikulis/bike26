@@ -7,7 +7,7 @@
 ## Reports
 
 | File | Content |
-|---|---|---|
+|---|---|
 | [08-master-comparison.md](08-master-comparison.md) | Full comparison table — all bikes side by side with ranking |
 | [07-feature-comparison-guide.md](07-feature-comparison-guide.md) | Why features matter — gearing, brakes, Di2, weight, etc. explained |
 | [01-cube-attain-series-details.md](01-cube-attain-series-details.md) | Cube Attain specs, prices, and reviews |
@@ -20,7 +20,7 @@
 ## Bike Listing Pages (with Marktplaats links)
 
 | Bike | Price | Groupset | Page |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Cube Attain C:62 SLT** (new) ★ | €2,999 | Ultegra Di2 | [View →](listings/cube-attain-c62-slt.md) |
 | **Cube Attain C:62 SLX** (new) | €2,499 | 105 Di2 | [View →](listings/cube-attain-c62-slx.md) |
 | **Cube Attain C:62 Race** (new) | €1,699 | 105 mech | [View →](listings/cube-attain-c62-race.md) |
@@ -33,6 +33,17 @@
 | **Canyon Endurace CF 7** (used) | ~€1,900 | 105 mech | [View →](listings/canyon-endurace-cf7-used.md) |
 
 [All listings overview →](listings/index.md)
+
+## Rider Measurements
+
+| Measurement | Value |
+|---|---|
+| Height | 169 cm |
+| Inseam | 79 cm |
+| **Cube Attain frame size** | **50** (fits 1.62–1.70 m) |
+| Other bikes | Equivalent sizes noted per brand in reports |
+
+---
 
 ## TL;DR
 

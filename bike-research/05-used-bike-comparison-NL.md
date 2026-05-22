@@ -85,35 +85,24 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 | Listing | Price | Details |
 |---|---|---|
-| **Cube Attain C:62 SLX** new (dealer) | **€2,499** | 2026, 105 Di2, carbon, all sizes — buy now |
-| **Cube Attain C:62 Race** new (dealer) | **€1,699** | 2026, 105 mech, carbon — cheapest new carbon |
-| **Cube Attain SLX** new (dealer) | **€1,249-1,399** | 2026, alu, 105 2x12, disc — budget pick |
-| **Cube Attain C:62 SLX** demo | ~€2,200 | 2025, lagoon black, 56cm — quick saving |
-| **Cube Attain GTC SL Disc** used | ~€1,500 | Carbon frame, 105 disc, size 56-58, 50/34 + 11-30 |
-| **Cube Attain GTC SLX** used | ~€1,600 | Carbon, "nieuwstaat", Frozenteal/black |
-| **Cube Attain SLX 2023** used (62cm) | ~€1,200 | New DT Swiss R470 + GP5000 tyres fitted |
-| **Cube Attain SL** used (56-60cm) | ~€600-1,000 | Older alu, 105, good condition |
+| **Cube Attain C:62 SLX** new (dealer) | **€2,499** | 2026, 105 Di2, carbon, **available in size 50** ✓ |
+| **Cube Attain C:62 Race** new (dealer) | **€1,699** | 2026, 105 mech, carbon — **available in size 50** ✓ |
+| **Cube Attain SLX** new (dealer) | **€1,249-1,399** | 2026, alu, 105 2x12, disc — ask for size 50 |
+| **Cube Attain GTC SLX** used | ~€1,600 | Carbon, "nieuwstaat", confirm size |
 
 ### Canyon Endurace — Used on Marktplaats
 
 | Listing | Price | Details |
 |---|---|---|
-| **Canyon Endurace CF 7** (S, 2022) | **€1,900** | Carbon, 105 disc, 30mm tyres, well maintained |
-| **Canyon Endurace CF SL 8.0 Di2** (M, 2020) | **€2,200** | Ultegra Di2, disc, carbon, excellent condition |
-| **Canyon Endurace CF SL Di2** (L) | **€2,150** | Ultegra Di2, carbon, disc — great value |
-| **Canyon Endurace CF SL 7.0** (M, 2021) | ~€1,500-1,800 | Carbon, 105 disc, good condition |
-| **Canyon Endurace CF SLX 7 AXS** (M, 2024) | ~€2,650 | SRAM Rival AXS wireless, carbon, like new |
-| **Canyon Endurace CF SLX 9.0 Di2** (M, 2019) | ~€3,200 | Dura-Ace Di2, DT Swiss carbon wheels — over budget |
-| **Canyon Endurace CF 7** used | **€1,900** | See listing: "aankoopbon aanwezig, goed onderhouden" |
+| **Canyon Endurace CF 7** — search XS | ~€1,900 | Carbon, 105 disc — [search NL-wide →](https://www.marktplaats.nl/q/canyon+endurace+cf+7+maat+xs/) |
+| **Canyon Endurace CF SL Di2** — search XS | ~€2,200 | Ultegra Di2, carbon, disc — [search NL-wide →](https://www.marktplaats.nl/q/canyon+endurace+di2+maat+xs/) |
 
 ### Giant Defy — Used & New-on-Marktplaats
 
 | Listing | Price | Details |
 |---|---|---|
-| **Giant Defy Advanced 1** NEW dealer | **€2,650** | ★ BEST DEAL — 2025, **105 Di2**, carbon, 8.7 kg, 40mm clearance, full warranty |
-| **Giant Defy Advanced 2** NEW dealer sale | **€2,199** | 2025, 105 mechanical, carbon, disc |
-| **Giant Defy Advanced Pro 1** used | ~€2,300 | Ultegra Di2, carbon, ML, good condition |
-| **Giant Defy Advanced 2** used (L) | ~€1,800-2,000 | Carbon, 105, disc — available |
+| **Giant Defy Advanced 1** NEW dealer | **€2,650** | ★ BEST DEAL — 2025, **105 Di2**, carbon, 8.7 kg, 40mm clearance, full warranty — **size S available** |
+| **Giant Defy Advanced 2** NEW dealer sale | **€2,199** | 2025, 105 mechanical, carbon, disc — ask for size S |
 
 ### Merida Scultura Endurance — New & Used on Marktplaats
 
@@ -129,22 +118,16 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 | Listing | Price | Details |
 |---|---|---|
-| **Roqa Carbon Prestige** new (dealer) | **€1,999** | ★ CHEAPEST NEW CARBON — endurance model, 105 2×12, disc, 45 mm clearance, 8.9 kg |
-| **Roqa Carbon Prestige** new (dealer, 51 cm) | **€2,399** | Same bike, different seller, smaller frame size |
+| **Roqa Carbon Prestige** new (dealer, 51 cm) | **€2,399** | Carbon, 105 2×12, disc, 45 mm clearance, 8.9 kg — **size 51 fits you** ✓ |
+| **Roqa Carbon Prestige** new — search 51 cm | ~€1,999-2,399 | [Search NL-wide →](https://www.marktplaats.nl/q/koga+roqa+maat+51/) |
 
-**Koga verdict for Alpe d'Huez:** At €1,999 this is the cheapest new carbon endurance bike with disc brakes by a wide margin. The **45 mm tyre clearance** is class-leading. 1:1 gearing out of the box. Downsides: mechanical 105 (not Di2), 8.9 kg, and limited to size L on the cheapest listing.
+**Koga verdict for Alpe d'Huez:** The **45 mm tyre clearance** is class-leading. 1:1 gearing out of the box. Downsides: mechanical 105 (not Di2), 8.9 kg. Search for your size (51 cm) — the €1,999 deal was size L only.
 
 ### Specialized Roubaix — Used on Marktplaats
 
 | Listing | Price | Details |
 |---|---|---|
-| **Roubaix Comp Disc 2020** (54 cm) | **€1,795** | Ultegra, disc, Future Shock, carbon — good value |
-| **Roubaix Comp 2021** (58 cm, 3,000 km) | **€2,400** | Ultegra mech, disc, excellent condition |
-| **Roubaix 2021 Di2** + carbon wheels (54 cm) | **€2,850** | Ultegra Di2, Roval C38 carbon wheels — top spec near budget limit |
-| **Roubaix Elite** (56 cm) | **€1,700** | Ultegra, disc — solid mid-range option |
-| **Roubaix Expert DI2 2018** (56 cm) | **€1,600** | Older but Di2, check cassette gearing |
-| **Roubaix SL8 Sport Apex 2024** (61 cm) | **€2,000** | Newer model, SRAM Apex, 12-speed — check gearing |
-| **Roubaix Sport** new (dealer, €3,499 → €1,999) | **€1,999** | NEW old stock, 105 2×11, carbon — great deal if size fits |
+| **Roubaix** — search size 52 | ~€1,700-2,850 | Future Shock, disc, carbon — [search NL-wide →](https://www.marktplaats.nl/q/specialized+roubaix+maat+52/) |
 
 **Roubaix verdict for Alpe d'Huez:** The Future Shock suspension (20 mm travel) is a comfort advantage for 118 km days. Most Roubaix models have 40 mm tyre clearance. Priority is disc brakes + compact gearing (50/34). The €2,850 Di2 + carbon wheels model is excellent if you can stretch to it.
 
@@ -152,12 +135,7 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 | Listing | Price | Details |
 |---|---|---|
-| **Domane SL 5 Gen 4** new (dealer, €3,099 → €2,599) | **€2,599** | NEW showroom model, 105 2×12, 56 cm, 38 mm clearance, IsoSpeed |
-| **Domane SL 6 Gen 4** used (56 cm, 500 km) | **€2,600** | 105 Di2, Gen 4 frame, as new |
-| **Domane SL 6 Gen 4** refurbished (M) | **€2,899** | 105 Di2, 15 months warranty |
-| **Domane SL 6 Gen 3** (58 cm, 2020) | **€2,000** | Ultegra mech, disc — older but well specced |
-| **Domane SL 5** (54 cm, 2023, 3,000 km) | **€2,000** | 105 mech, disc, 38 mm clearance |
-| **Domane SL 5** (M, 2022, 1,000 km) | **€2,250** | 105 mech, disc, barely used |
+| **Domane** — search size 50-52 | ~€2,000-2,899 | IsoSpeed comfort, disc — [search NL-wide →](https://www.marktplaats.nl/q/trek+domane+maat+52/) |
 
 **Domane verdict for Alpe d'Huez:** The IsoSpeed decoupler is unique for comfort on alpine descents. 38 mm tyre clearance is generous. The **€2,599 new SL 5 Gen 4** is a strong deal — new bike with warranty at €2,599 with 105 2×12, hydraulic disc, and IsoSpeed. For Di2, the **€2,600 SL 6 Gen 4 used** is excellent value.
 
@@ -165,12 +143,7 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 | Listing | Price | Details |
 |---|---|---|
-| **Synapse Carbon 2 RL** new (dealer, €4,699 → €2,899) | **€2,899** | NEW, Ultegra 2×11 mech, disc, 56/58/61 cm, SmartSense |
-| **Synapse Carbon 5** new (dealer) | **€2,699** | NEW, 105 2×12, disc, 56 cm |
-| **Synapse Ultegra Di2** (56 cm, used) | **€1,950** | Ultegra Di2, carbon, disc — potential bargain |
-| **Synapse Carbon Disc Ultegra** (54 cm, used) | **~€1,500** | Carbon, Ultegra, disc — budget option |
-| **Synapse Carbon Disc 105** (61 cm, 2019) | **~€1,250** | Carbon, 105, disc — older but affordable |
-| **Synapse Carbon 2 LE 105 Di2** new (dealer, 56 cm) | **€3,399** | Over budget but 105 Di2 — overpriced vs Cube |
+| **Synapse** — search size 51 | ~€1,250-2,899 | Endurance geometry, disc — [search NL-wide →](https://www.marktplaats.nl/q/cannondale+synapse+maat+51/) |
 
 **Synapse verdict for Alpe d'Huez:** Classic endurance geometry with good comfort. The new **€2,699 Carbon 5** with 105 2×12 is competitive with the Cube Attain but without Di2. Verify cassette on any used model — older Synapse models shipped with 11-28 or 11-30 cassettes which won't cut it for Alpe d'Huez without a swap.
 
@@ -200,21 +173,23 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 ### What to Actually Search on Marktplaats
 
-| Search Term | Best Results |
-|---|---|---|
-| `cube attain c:62` | Carbon Attain models (best for Ironman) |
-| `cube attain slx` | Aluminium, cheaper |
-| `canyon endurace di2` | Used electronic shifting endurance bikes |
-| `canyon endurace cf sl` | Carbon Endurace — sweet spot |
-| `giant defy advanced 1` | Best new deal right now |
-| `merida scultura endurance` | Merida endurance (€2,399 new dealer) |
-| `specialized roubaix disc` | Roubaix with Future Shock + discs |
-| `trek domane sl 5` | Domane Gen4 (from €2,000 used) |
-| `trek domane sl 6` | Domane with Di2 (used ~€2,600) |
-| `cannondale synapse carbon` | Synapse endurance (new from €2,699) |
-| `koga roqa prestige` | Koga endurance/gravel (from €1,999 new) |
-| `endurance racefiets` | Broad search for comfort geometry |
-| `triathlon fiets 2000` | TT bikes in range |
+**Your measurements:** 169cm height / 79cm inseam → frame sizes listed below.
+All searches are NL-wide (no radius filter).
+
+| Search Term | Frame Size | Best Results |
+|---|---|---|---|
+| `cube attain c:62 maat 50` | **50** (1.62–1.70m) | Carbon Attain models (best for Ironman) |
+| `cube attain slx maat 50` | **50** | Aluminium, cheaper |
+| `canyon endurace di2 maat xs` | **XS** (1.66–1.74m) | Used electronic shifting endurance bikes |
+| `canyon endurace cf sl maat xs` | **XS** | Carbon Endurace — sweet spot |
+| `giant defy maat s` | **S** (~1.65–1.75m) | Best new deal right now |
+| `merida scultura endurance maat s` | **S** (~1.68–1.76m) | Merida endurance (€2,399 new dealer) |
+| `specialized roubaix maat 52` | **52** (~1.65–1.78m) | Roubaix with Future Shock + discs |
+| `trek domane maat 52` | **52** (~1.65–1.75m) | Domane Gen4 (from €2,000 used) |
+| `cannondale synapse maat 51` | **51** (~1.63–1.73m) | Synapse endurance (new from €2,699) |
+| `koga roqa prestige maat 51` | **51** (S) | Koga endurance/gravel (from €1,999 new) |
+| `endurance racefiets 50` | Add your size | Broad search for comfort geometry |
+| `triathlon fiets 2000` | Check frame size | TT bikes in range |
 
 ### Avoid for Alpe d'Huez
 - Old TT bikes with rim brakes and 53/39 + 11-25 gearing (you'll struggle on climbs)
@@ -228,11 +203,18 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 - [Bikeflip.com](https://www.bikeflip.com) — additional used bike listings
 - [2dehands.be](https://www.2dehands.be) — Belgian market cross-reference
 - [opticycles.com](https://www.opticycles.com) — used bike pricing reference
-- [Cube Attain Marktplaats search](https://www.marktplaats.nl/q/cube+attain/)
-- [Canyon Endurace Marktplaats search](https://www.marktplaats.nl/q/canyon+endurace/)
-- [Giant Defy Marktplaats search](https://www.marktplaats.nl/q/giant+defy/)
-- [Specialized Roubaix Marktplaats search](https://www.marktplaats.nl/q/specialized+roubaix/)
-- [Trek Domane Marktplaats search](https://www.marktplaats.nl/q/trek+domane/)
-- [Cannondale Synapse Marktplaats search](https://www.marktplaats.nl/q/cannondale+synapse/)
-- [Koga Roqa Marktplaats search](https://www.marktplaats.nl/q/koga+roqa/)
-- [Merida Scultura Endurance Marktplaats search](https://www.marktplaats.nl/q/merida+scultura+endurance/)
+- [Cube Attain size 50 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cube+attain+maat+50/)
+
+- [Canyon Endurace size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+maat+xs/)
+
+- [Giant Defy size S — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/giant+defy+maat+s/)
+
+- [Specialized Roubaix size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/specialized+roubaix+maat+52/)
+
+- [Trek Domane size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/trek+domane+maat+52/)
+
+- [Cannondale Synapse size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cannondale+synapse+maat+51/)
+
+- [Koga Roqa size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/koga+roqa+maat+51/)
+
+- [Merida Scultura Endurance size S — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/merida+scultura+endurance+maat+s/)

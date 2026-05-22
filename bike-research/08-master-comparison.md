@@ -2,7 +2,7 @@
 
 **Target:** Alpe d'Huez Ironman (118 km, 3200m climbing)  
 **Budget:** €2,000–€3,000 all-in (bike + clip-ons + fit)  
-**Market:** Netherlands, Marktplaats.nl, May 2026
+**Market:** Netherlands, Marktplaats.nl + other platforms, May 2026
 
 ---
 
@@ -39,9 +39,9 @@
 
 ---
 
-## Used (Private / Dealer on Marktplaats)
+## Used (Private / Dealer)
 
-*All models below come in sizes that fit 169cm rider. Specific Marktplaats listings with wrong frame sizes have been removed; use the search links to find your size.*
+*All models below come in sizes that fit 169cm rider. Prices sourced from Marktplaats, Racefiets013, H&B Exclusive, Wijverkopentweedehandsfietsen, and 2dehands.be. See [05-used-bike-comparison-NL.md](05-used-bike-comparison-NL.md) for full platform comparison.*
 
 | | Canyon Endurace CF SL 8.0 Di2 | Canyon Endurace CF 7 | Cube Attain GTC SL Disc | Specialized Roubaix Comp 2021 | Trek Domane SL 6 Gen4 | Cannondale Synapse Ultegra Di2 | Giant Defy Advanced Pro 1 |
 |---|---|---|---|---|---|---|---|
@@ -116,15 +116,37 @@
 
 - [Cube Attain series — cube.eu](https://www.cube.eu/bikes/road/road-race/attain)
 - [Cube Attain C:62 SLX (€2,499) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx)
+
 - [Cube Attain C:62 Race (€1,699) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699)
+
+- [Cube Attain Race 50cm refurbished (€899) — H&B Exclusive](https://hbexclusive.com/products/cube-attain-race-racefiets-1-refurbished-gebruikte-fiets)
+
 - [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
+
+- [Giant Defy Advanced Pro 2 AXS (€2,800) — Racefiets013](https://racefiets013.com/products/giant-defy-advanced-pro-2-axs-carbon-racefiets)
+
+- [Canyon Endurace CF SL Disc 8 AXS (€2,399) — Racefiets013](https://racefiets013.com/products/canyon-endurace-cf-sl-disc-8-axs-carbon-racefiets)
+
+- [Canyon Endurace Carbon (€1,600) — Racefiets013](https://racefiets013.com/products/canyon-endurace-carbon-racefiets)
+
+- [Cube Attain Disc Carbon (€1,400) — Racefiets013](https://racefiets013.com/products/cube-attain-disc-carbon-racefiets)
+
+- [Giant Defy Disc (€895) — Wijverkopentweedehandsfietsen](https://www.wijverkopentweedehandsfietsen.nl/product/giant-defy-disc-racefiets-m-54cm-shimano-105/)
+
+- [Specialized Roubaix Expert AXS (€4,299) — Ci-Cicli](https://www.ci-cicli.nl/tweedehands-racefiets/specialized-roubaix-expert-sram-rival-etap-axs-2023-2-x-12-52cm/)
+
 - [Trek Domane size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/trek+domane+maat+52/)
+
 - [Merida Scultura Endurance 4000 (€2,399) — Bike Totaal on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2373308464-nieuwe-merida-scultura-endurance-4000)
+
 - [Koga Roqa size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/koga+roqa+maat+51/)
+
 - [Cannondale Synapse size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cannondale+synapse+maat+51/)
+
 - [Canyon Endurace Di2 size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+di2+maat+xs/)
+
 - [Canyon Endurace CF 7 size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+cf+7+maat+xs/)
 - [Alpe d'Huez Triathlon official site](https://www.alpetriathlon.com/)
 - [France Bike Rentals — choosing the right bike](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)
 
-*Last updated: May 2026 — Prices from Marktplaats.nl, verified active listings.*
+*Last updated: May 2026 — Prices from Marktplaats.nl, Racefiets013, H&B Exclusive, Wijverkopentweedehandsfietsen, Ci-Cicli, viaBOVAG, 2dehands.be, and new bike dealers. See [05-used-bike-comparison-NL.md](05-used-bike-comparison-NL.md) for listings from platforms beyond Marktplaats.*

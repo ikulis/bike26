@@ -159,6 +159,13 @@ Budget: €2,000–€3,000
 
 The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Canyon Endurace CF SL 8.0 Di2** in excellent condition under €2,200. For a used TT bike, unless you mostly race flat Ironmans, skip it for this race.
 
+**If buying used, check these platforms beyond Marktplaats:**
+- **[Racefiets013](https://racefiets013.com)** — 3-month warranty, €50 delivery NL/BE, stock changes weekly
+- **[H&B Exclusive](https://hbexclusive.com)** — 15-month warranty, free delivery, e.g. Cube Attain Race 50cm at €899
+- **[Wijverkopentweedehandsfietsen](https://www.wijverkopentweedehandsfietsen.nl)** — 6-month warranty, e.g. Giant Defy Disc 54cm at €895
+- **[2dehands.be](https://www.2dehands.be)** — Belgian market, e.g. Canyon Endurace XS
+- **[viaBOVAG](https://www.viabovag.nl)** — BOVAG-certified dealers nationwide
+
 **If buying used on Marktplaats (NL-wide, no radius), target these searches:**
 - `cube attain c:62 maat 50` — carbon Attain in your size
 - `canyon endurace di2 maat xs` — endurance bike with electronic shifting
@@ -170,5 +177,8 @@ The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Ca
 - [Cube Attain C:62 SLX (€2,499) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx)
 - [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
 - [Cube Attain C:62 Race (€1,699) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699)
+- [Cube Attain Race 50cm refurbished (€899) — H&B Exclusive](https://hbexclusive.com/products/cube-attain-race-racefiets-1-refurbished-gebruikte-fiets)
+- [Giant Defy Disc 54cm refurbished (€895) — Wijverkopentweedehandsfietsen](https://www.wijverkopentweedehandsfietsen.nl/product/giant-defy-disc-racefiets-m-54cm-shimano-105/)
 - [Canyon Endurace Di2 size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+di2+maat+xs/)
+- [Racefiets013 — used bike specialist](https://racefiets013.com)
 - [Alpe d'Huez Triathlon official bike advice](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)

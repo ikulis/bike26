@@ -1,6 +1,6 @@
 # Used Bike Comparison — Available in NL for €2,000–€3,000
 
-Prices sourced from Marktplaats.nl, Bikeflip.com, 2dehands.be, and opticycles.com (May 2026).
+Prices sourced from Marktplaats.nl, Bikeflip.com, 2dehands.be, opticycles.com, Racefiets013.nl, H&B Exclusive, Wijverkopentweedehandsfietsen.nl, Ci-Cicli.nl, viaBOVAG.nl, Martens Tweewielers, and Bikester.nl (May 2026).
 
 ---
 
@@ -147,6 +147,112 @@ A used bike at €2,000 may cost €2,600+ after making it race-ready.
 
 **Synapse verdict for Alpe d'Huez:** Classic endurance geometry with good comfort. The new **€2,699 Carbon 5** with 105 2×12 is competitive with the Cube Attain but without Di2. Verify cassette on any used model — older Synapse models shipped with 11-28 or 11-30 cassettes which won't cut it for Alpe d'Huez without a swap.
 
+---
+
+## Other Dutch Used Bike Platforms (Beyond Marktplaats)
+
+Dutch used bike specialists offer **professional inspection, warranty, and delivery** — worth paying a premium vs private Marktplaats sales.
+
+### Racefiets013 — [racefiets013.com](https://racefiets013.com)
+
+NL's largest second-hand racefiets showroom. 500+ 5-star reviews, 3-month warranty on all bikes, €50 delivery NL/BE, 30-point inspection.
+
+| Listing | Price | Size | Groupset | Frame | Wheels | Status |
+|---|---|---|---|---|---|---|
+| **Giant Defy Advanced Pro 2 AXS** | **€2,800** | 52 (165-175cm) ✓ | SRAM Rival AXS (electronic) | Carbon | Giant SLR2 Carbon | Sold out |
+| **Canyon Endurace CF SL Disc 8 AXS** | **€2,399** | S (170-180cm) ✓ | SRAM Rival AXS + powermeter | Carbon | Aluminium | Sold out |
+| **Canyon Endurace Carbon** | **€1,600** | S/52 (170-178cm) ✓ | Shimano 105 | Carbon | Aluminium | Sold out |
+| **Cube Attain Disc Carbon** | **€1,400** | 53 (160-170cm) ✓ | Shimano 105 | Carbon | Aluminium | Sold out |
+
+All currently sold out, but **new stock arrives regularly** — check their site weekly.
+
+- [Racefiets013 search →](https://racefiets013.com/)
+
+### H&B Exclusive — [hbexclusive.com](https://hbexclusive.com)
+
+Refurbished bike specialist. 15-month premium warranty, 14-day returns, 1-5 day delivery.
+
+| Listing | Price | Size | Groupset | Frame | Warranty |
+|---|---|---|---|---|---|
+| **Cube Attain Race 50cm** | **€899** | 50 (1.62-1.72m) ✓ | Shimano Tiagra | Aluminium | 15 months |
+
+Refurbished 2022 model at **€899** with strong warranty. Great budget option — add clip-ons (€100) and a cassette swap to 11-36 (€60) for €1,059 total.
+
+- [Cube Attain Race @ H&B Exclusive →](https://hbexclusive.com/products/cube-attain-race-racefiets-1-refurbished-gebruikte-fiets)
+
+### Wijverkopentweedehandsfietsen.nl — [wijverkopentweedehandsfietsen.nl](https://www.wijverkopentweedehandsfietsen.nl)
+
+Refurbished bikes with 6-month warranty.
+
+| Listing | Price | Size | Groupset | Frame | Warranty |
+|---|---|---|---|---|---|
+| **Giant Defy Disc** | **€895** | 54cm (170-185cm) | Shimano 105 | Aluminium + carbon fork | 6 months |
+
+Aluminium frame at €895, refurbished with 6-month warranty. 22-speed 105, disc brakes. **Borderline size** — 54cm is slightly large for 169cm, but workable with a shorter stem.
+
+- [Giant Defy Disc @ Wijverkopentweedehandsfietsen →](https://www.wijverkopentweedehandsfietsen.nl/product/giant-defy-disc-racefiets-m-54cm-shimano-105/)
+
+### Ci-Cicli — [ci-cicli.nl](https://www.ci-cicli.nl)
+
+Specialized second-hand racefietsen showroom (Almere). By appointment only — 06-23020886.
+
+| Listing | Price | Size | Groupset | Frame |
+|---|---|---|---|---|
+| **Specialized Roubaix Expert SRAM Rival AXS 2023** | **€4,299** | 52cm (165-172cm) ✓ | SRAM Rival eTap AXS | Carbon + Future Shock 2.0 |
+
+**Over budget** at €4,299, but shows availability of premium used Roubaix. Future Shock 2.0 provides class-leading comfort.
+
+- [Roubaix @ Ci-Cicli →](https://www.ci-cicli.nl/tweedehands-racefiets/specialized-roubaix-expert-sram-rival-etap-axs-2023-2-x-12-52cm/)
+
+### viaBOVAG.nl — [viabovag.nl](https://www.viabovag.nl)
+
+BOVAG-certified dealer network. Certified quality checks on all bikes.
+
+| Listing | Price | Size | Groupset | Frame | Warranty |
+|---|---|---|---|---|---|
+| **Cube Attain C:62 SLT** | **€2,999** | 53cm | Ultegra Di2 | Carbon | BOVAG |
+| **Cube Attain C:62 SLX** | **€2,249** | 56cm (too large) | 105 Di2 | Carbon | BOVAG |
+
+SLT at €2,999 is the same price as new from CubeStores — no advantage. SLX in 56cm is too large for 169cm.
+
+- [Cube Attain @ viaBOVAG →](https://www.viabovag.nl/fietsen/merk-cube/racefiets)
+
+### Martens Tweewielers / Bikester — New Bikes, Size 50 Available
+
+Both stock the **Cube Attain C:62 SLT** at RRP €2,999 in all sizes including **50**:
+
+- [Martens Tweewielers →](https://www.martens-tweewielers.nl/shop/cube-attain-c-62-slt-carbon-n-coalchrome/)
+- [Bikester →](https://www.bikester.nl/products/cube-attain-c62-slt-carbon-n-coalchrome)
+- [12GO Biking →](https://www.12gobiking.nl/cube-attain-c-62-slt)
+- [CubeStores →](https://www.cubestores.nl/products/cube-attain-c-62-slt-carbon-coalchrome)
+
+### 2dehands.be — Belgian Market (ships to NL)
+
+| Listing | Price | Size | Groupset |
+|---|---|---|---|
+| **Cube Attain 2022 50"** | Negotiable | 50cm ✓ | Claris 8-speed |
+| **Canyon Endurace XS** | Negotiable | XS ✓ | Tiagra 2x10 |
+
+The Cube is base-spec (Claris) best suited as a cheap starter bike. The Canyon Endurace XS is worth contacting the seller.
+
+- [2dehands.be Cube Attain →](https://www.2dehands.be/v/fietsen-en-brommers/fietsen-racefietsen/m2397831613-velo-de-route-cube-attain-2022-50)
+- [2dehands.be Canyon Endurace XS →](https://www.2dehands.be/v/fietsen-en-brommers/fietsen-racefietsen/m2375469428-canyon-endurace-xs-nieuwstaat)
+
+### Platform Comparison Summary
+
+| Platform | Warranty | Inspection | Delivery | Price Premium vs Private |
+|---|---|---|---|---|
+| **Racefiets013** | 3 months | 30-point | €50 NL/BE | 10-20% |
+| **H&B Exclusive** | 15 months | 47-point | free (1-5 days) | 15-25% |
+| **Wijverkopentweedehandsfietsen** | 6 months | Full check | varies | 10-15% |
+| **Ci-Cicli** | None stated | Visual check | pickup only (Almere) | 20-40% (premium brands) |
+| **viaBOVAG** | BOVAG | 40-point | per dealer | 15-30% |
+| **Marktplaats private** | None | None | varies | baseline |
+
+**Verdict:** For your budget (€2,000-€3,000), Racefiets013 and H&B Exclusive are the best non-Marktplaats platforms — they offer real warranty and inspection for bikes in your size range. The H&B Exclusive Cube Attain Race at €899 + 15-month warranty is the best **cheap** option outside Marktplaats.
+
+---
+
 ### What This Means For You
 
 **Cheapest new carbon endurance bike on Marktplaats:**
@@ -203,18 +309,20 @@ All searches are NL-wide (no radius filter).
 - [Bikeflip.com](https://www.bikeflip.com) — additional used bike listings
 - [2dehands.be](https://www.2dehands.be) — Belgian market cross-reference
 - [opticycles.com](https://www.opticycles.com) — used bike pricing reference
+- [Racefiets013.nl](https://racefiets013.com) — used bike specialist, 3-month warranty
+- [H&B Exclusive](https://hbexclusive.com) — refurbished specialist, 15-month warranty
+- [Wijverkopentweedehandsfietsen.nl](https://www.wijverkopentweedehandsfietsen.nl) — refurbished, 6-month warranty
+- [Ci-Cicli.nl](https://www.ci-cicli.nl) — used racefietsen showroom (Almere)
+- [viaBOVAG.nl](https://www.viabovag.nl) — BOVAG-certified dealer network
+- [Martens Tweewielers](https://www.martens-tweewielers.nl) — Cube dealer, new bikes
+- [Bikester.nl](https://www.bikester.nl) — online bike retailer
+- [12GO Biking](https://www.12gobiking.nl) — large NL bike store
+- [CubeStores](https://www.cubestores.nl) — Cube specialist store
 - [Cube Attain size 50 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cube+attain+maat+50/)
-
 - [Canyon Endurace size XS — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/canyon+endurace+maat+xs/)
-
 - [Giant Defy size S — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/giant+defy+maat+s/)
-
 - [Specialized Roubaix size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/specialized+roubaix+maat+52/)
-
 - [Trek Domane size 52 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/trek+domane+maat+52/)
-
 - [Cannondale Synapse size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/cannondale+synapse+maat+51/)
-
 - [Koga Roqa size 51 — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/koga+roqa+maat+51/)
-
 - [Merida Scultura Endurance size S — Marktplaats (NL-wide)](https://www.marktplaats.nl/q/merida+scultura+endurance+maat+s/)

@@ -17,20 +17,29 @@
 | [05-used-bike-comparison-NL.md](05-used-bike-comparison-NL.md) | Used market analysis for NL (TT + road) |
 | [06-final-recommendation-ironman.md](06-final-recommendation-ironman.md) | Final verdict for Ironman use |
 
-## Bike Listing Pages (with Marktplaats links)
+## Bike Listing Pages (Marktplaats + other platforms)
 
-| Bike | Price | Groupset | Page |
-|---|---|---|---|
-| **Cube Attain C:62 SLT** (new) ★ | €2,999 | Ultegra Di2 | [View →](listings/cube-attain-c62-slt.md) |
-| **Cube Attain C:62 SLX** (new) | €2,499 | 105 Di2 | [View →](listings/cube-attain-c62-slx.md) |
-| **Cube Attain C:62 Race** (new) | €1,699 | 105 mech | [View →](listings/cube-attain-c62-race.md) |
-| **Giant Defy Advanced 1** (new) ⭐ | €2,650 | 105 Di2 | [View →](listings/giant-defy-advanced-1.md) |
-| **Merida Scultura Endurance 4000** (new) | €2,399 | 105 mech | [View →](listings/merida-scultura-endurance-4000.md) |
-| **Koga Roqa Carbon Prestige** (new) | €1,999 | 105 mech | [View →](listings/koga-roqa-carbon-prestige.md) |
-| **Cannondale Synapse Carbon 2 RL** (new) | €2,899 | Ultegra mech | [View →](listings/cannondale-synapse-carbon-2-rl.md) |
-| **Cube Attain GTC SL** (used) | ~€1,500 | 105 mech | [View →](listings/cube-attain-gtc-sl-used.md) |
-| **Canyon Endurace CF SL Di2** (used) | ~€2,200 | Ultegra Di2 | [View →](listings/canyon-endurace-cf-sl-di2-used.md) |
-| **Canyon Endurace CF 7** (used) | ~€1,900 | 105 mech | [View →](listings/canyon-endurace-cf7-used.md) |
+| Bike | Price | Groupset | Platform | Page |
+|---|---|---|---|---|
+| **Cube Attain C:62 SLT** (new) ★ | €2,999 | Ultegra Di2 | CubeStores | [View →](listings/cube-attain-c62-slt.md) |
+| **Cube Attain C:62 SLX** (new) | €2,499 | 105 Di2 | Marktplaats | [View →](listings/cube-attain-c62-slx.md) |
+| **Cube Attain C:62 Race** (new) | €1,699 | 105 mech | Marktplaats | [View →](listings/cube-attain-c62-race.md) |
+| **Giant Defy Advanced 1** (new) ⭐ | €2,650 | 105 Di2 | Marktplaats | [View →](listings/giant-defy-advanced-1.md) |
+| **Merida Scultura Endurance 4000** (new) | €2,399 | 105 mech | Marktplaats | [View →](listings/merida-scultura-endurance-4000.md) |
+| **Koga Roqa Carbon Prestige** (new) | €1,999 | 105 mech | Marktplaats | [View →](listings/koga-roqa-carbon-prestige.md) |
+| **Cannondale Synapse Carbon 2 RL** (new) | €2,899 | Ultegra mech | Marktplaats | [View →](listings/cannondale-synapse-carbon-2-rl.md) |
+| **Cube Attain GTC SL** (used) | ~€1,500 | 105 mech | Marktplaats | [View →](listings/cube-attain-gtc-sl-used.md) |
+| **Canyon Endurace CF SL Di2** (used) | ~€2,200 | Ultegra Di2 | Marktplaats | [View →](listings/canyon-endurace-cf-sl-di2-used.md) |
+| **Canyon Endurace CF 7** (used) | ~€1,900 | 105 mech | Marktplaats | [View →](listings/canyon-endurace-cf7-used.md) |
+
+### Other Platforms with Concrete Listings Found
+
+| Platform | Bike | Price | Warranty | Link |
+|---|---|---|---|---|
+| **Racefiets013** | Giant Defy Adv Pro 2 AXS (52cm) | €2,800 | 3 months | [View](https://racefiets013.com/products/giant-defy-advanced-pro-2-axs-carbon-racefiets) |
+| **Racefiets013** | Canyon Endurace CF SL Disc 8 AXS (S) | €2,399 | 3 months | [View](https://racefiets013.com/products/canyon-endurace-cf-sl-disc-8-axs-carbon-racefiets) |
+| **H&B Exclusive** | Cube Attain Race (50cm) | €899 | 15 months | [View](https://hbexclusive.com/products/cube-attain-race-racefiets-1-refurbished-gebruikte-fiets) |
+| **Wijverkopentweede...** | Giant Defy Disc (54cm) | €895 | 6 months | [View](https://www.wijverkopentweedehandsfietsen.nl/product/giant-defy-disc-racefiets-m-54cm-shimano-105/) |
 
 [All listings overview →](listings/index.md)
 

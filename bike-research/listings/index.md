@@ -1,6 +1,6 @@
-# Bike Listings — Marktplaats.nl (May 2026)
+# Bike Listings (May 2026)
 
-Click a bike to see full details, specs, and links to the actual Marktplaats listings.
+Click a bike to see full details, specs, and links to actual listings. Listings are primarily from **Marktplaats.nl** plus other Dutch used bike platforms (see below).
 
 ## New (from Dealers on Marktplaats)
 
@@ -22,7 +22,29 @@ Click a bike to see full details, specs, and links to the actual Marktplaats lis
 | **Canyon Endurace CF SL 8.0 Di2** | ~€2,200 | Ultegra Di2 | Carbon | 8.0 kg | [View →](canyon-endurace-cf-sl-di2-used.md) |
 | **Canyon Endurace CF 7** | ~€1,900 | 105 mech | Carbon | 8.6 kg | [View →](canyon-endurace-cf7-used.md) |
 
-## How to Search on Marktplaats (Your Size: 169cm)
+## Other Platforms Beyond Marktplaats
+
+Dutch used bike specialists with warranty, inspection, and delivery:
+
+| Platform | Warranty | Delivery | Best For |
+|---|---|---|---|
+| **[Racefiets013](https://racefiets013.com)** | 3 months | €50 NL/BE | Stock changes weekly |
+| **[H&B Exclusive](https://hbexclusive.com)** | 15 months | Free 1-5 days | Refurbished budget bikes |
+| **[Wijverkopentweedehandsfietsen](https://www.wijverkopentweedehandsfietsen.nl)** | 6 months | Varies | Refurbished mid-range |
+| **[Ci-Cicli](https://www.ci-cicli.nl)** | None | Pickup Almere | Premium used (over budget) |
+| **[viaBOVAG](https://www.viabovag.nl)** | BOVAG | Per dealer | Certified dealer network |
+| **[2dehands.be](https://www.2dehands.be)** | None | Per seller | Belgian cross-border |
+| **[Martens Tweewielers](https://www.martens-tweewielers.nl)** | 6yr frame | Per dealer | New Cube Attain C:62 SLT |
+| **[Bikester](https://www.bikester.nl)** | 6yr frame | Free delivery | New Cube Attain C:62 SLT |
+
+Concrete listings found on these platforms (May 2026):
+
+- **Cube Attain Race 50cm** @ H&B Exclusive — **€899** refurbished, Tiagra, 15-month warranty → [link](https://hbexclusive.com/products/cube-attain-race-racefiets-1-refurbished-gebruikte-fiets)
+- **Giant Defy Disc 54cm** @ Wijverkopentweedehandsfietsen — **€895** refurbished, 105, 6-month warranty → [link](https://www.wijverkopentweedehandsfietsen.nl/product/giant-defy-disc-racefiets-m-54cm-shimano-105/)
+- **Cube Attain C:62 SLT 50cm** @ Martens Tweewielers — **€2,999** new, Ultegra Di2, carbon wheels → [link](https://www.martens-tweewielers.nl/shop/cube-attain-c-62-slt-carbon-n-coalchrome/)
+- **Cube Attain C:62 SLT 50cm** @ Bikester — **€2,999** new, Ultegra Di2, carbon wheels → [link](https://www.bikester.nl/products/cube-attain-c62-slt-carbon-n-coalchrome)
+
+## How to Search Online (Your Size: 169cm)
 
 Always add your frame size to the search. Examples:
 

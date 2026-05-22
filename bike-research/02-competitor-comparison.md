@@ -4,6 +4,7 @@
 
 | Bike | Price (€) | Frame | Groupset | Shifting | Weight | Tyre Clear. | Standout Feature |
 |---|---|---|---|---|---|---|---|
+| **Cube Attain C:62 SLT** | **2,999** | Carbon C:62 | Ultegra Di2 | Electronic | **7.9 kg** | 34mm | Carbon wheels, best spec ★ |
 | **Cube Attain C:62 SLX** | **2,499** | Carbon C:62 | 105 Di2 | Electronic | 8.4 kg | 34mm | Cheapest Di2 |
 | Canyon Endurace CF 7 | 2,049 | Carbon CF | 105 | Mechanical | 8.6 kg | 35mm | Best value carbon |
 | Canyon Endurace CF 7 AXS | 2,499 | Carbon CF | Rival AXS | Wireless elec | 8.5 kg | 35mm | Wireless + power meter |

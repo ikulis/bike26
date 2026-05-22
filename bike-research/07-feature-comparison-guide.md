@@ -50,12 +50,35 @@ Not a spec sheet. Real explanations of what each feature actually means for you 
 
 **Common myth:** "Electronic shifting is unreliable and will fail mid-race." Reality: Di2 failure is extremely rare. The battery lasts 2,000-5,000 km. Most failures are caused by physical damage (crash) or running the battery dead. Charge it before the race and you'll be fine.
 
+### What About Ultegra vs 105?
+
+These two are much closer than either is to Dura-Ace. Both share the same Di2 electronics, battery, software, and shifting logic:
+
+| | 105 Di2 (R7170) | Ultegra Di2 (R8170) | Real-world difference |
+|---|---|---|---|
+| **Price (groupset)** | ~€600 | ~€900 | +€300 |
+| **Weight** | ~2,800g | ~2,600g | **200g saved** |
+| **Shifting feel** | Excellent | Slightly snappier | Barely noticeable in a race |
+| **Cassette** | All steel | Titanium large cogs | Steel lasts **longer** |
+| **Brakes** | 105 BR-R7170 | Ultegra BR-R8170 | Better modulation on Ultegra |
+| **Derailleur** | Steel cage | Carbon cage + aluminum links | 105 is more durable |
+| **Compatibility** | Identical | Identical | Same chain, cassette, battery, app |
+| **Durability** | Very high | High | 105 steel cassette outlasts Ultegra Ti |
+
+**What this means for your Alpe d'Huez Ironman:**
+- The 200g difference saves roughly **4 seconds** on the Alpe d'Huez climb, not 40 seconds (that's Dura-Ace vs 105).
+- The steel cassette on 105 will **outlast** the Ultegra titanium cassette by thousands of km.
+- The shifting feel difference is academic at Ironman effort levels — both shift perfectly when you press the button.
+- The only real advantage of Ultegra Di2 is slightly better brake modulation on wet descents.
+
+**Verdict:** 105 Di2 is the smarter choice for an Ironman. You get the same electronics, better cassette durability, and save €300. Spend that on a better wheelset, a bike fit, or clip-on bars. Only go Ultegra if weight is your absolute priority (e.g. you're a light climber racing for age-group podium) or you find a deal that closes the price gap.
+
 ### What About Dura-Ace?
 
 Dura-Ace is Shimano's top-tier groupset, sitting above Ultegra and 105 in the hierarchy:
 
 | | 105 | Ultegra | Dura-Ace |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Price (groupset)** | ~€600 | ~€900 | ~€2,000 |
 | **Weight** | ~2,800g | ~2,600g | ~2,400g |
 | **Shifting quality** | Excellent | Excellent + slightly crisper | Excellent + marginally crisper |

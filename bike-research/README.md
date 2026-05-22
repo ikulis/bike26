@@ -20,7 +20,8 @@
 ## Bike Listing Pages (with Marktplaats links)
 
 | Bike | Price | Groupset | Page |
-|---|---|---|---|
+|---|---|---|---|---|
+| **Cube Attain C:62 SLT** (new) ★ | €2,999 | Ultegra Di2 | [View →](listings/cube-attain-c62-slt.md) |
 | **Cube Attain C:62 SLX** (new) | €2,499 | 105 Di2 | [View →](listings/cube-attain-c62-slx.md) |
 | **Cube Attain C:62 Race** (new) | €1,699 | 105 mech | [View →](listings/cube-attain-c62-race.md) |
 | **Giant Defy Advanced 1** (new) ⭐ | €2,650 | 105 Di2 | [View →](listings/giant-defy-advanced-1.md) |
@@ -35,6 +36,6 @@
 
 ## TL;DR
 
-**New Cube Attain C:62 SLX (€2,499) + clip-on tri bars + bike fit = ~€2,800.**
+**Best spec: Cube Attain C:62 SLT (€2,999, CubeStores) — Ultegra Di2, carbon wheels, 7.9 kg. Best value: Cube Attain C:62 SLX (€2,499) — 105 Di2, carbon, 8.4 kg.**
 
-The Alpe d'Huez course (3200m climbing, 13% gradients) is too mountainous for a pure TT bike. The organisers recommend a road bike with clip-on bars. The Attain C:62 SLX gives you 105 Di2 electronic shifting, a carbon frame, 1:1 climbing gear, and hydraulic disc brakes — all within budget.
+The Alpe d'Huez course (3200m climbing, 13% gradients) is too mountainous for a pure TT bike. The organisers recommend a road bike with clip-on bars. Both the SLT and SLX give you electronic shifting, carbon frame, 1:1 climbing gear, and hydraulic disc brakes.

@@ -8,7 +8,29 @@ For Alpe d'Huez specifically, the official race recommendation is a road bike wi
 
 ---
 
-## Option 1: New Cube Attain C:62 SLX — €2,499 ★ RECOMMENDED
+## Option 1 (Best Spec): Cube Attain C:62 SLT — €2,999 ★
+
+| Item | Cost |
+|---|---|
+| Cube Attain C:62 SLT (CubeStores) | €2,999 |
+| Clip-on aero bars (e.g. Profile Design T4+) | €100 |
+| Professional bike fit | €200 |
+| **Total** | **~€3,299** ⚠️ |
+
+**Why this wins on spec:**
+- **Ultegra Di2** — lighter, snappier electronic shifting than 105 Di2
+- **Carbon wheels** (Newmen A.50) — faster climbing, better handling
+- **7.9 kg** — lightest bike in the comparison
+- Carbon frame + carbon cockpit — comfort over 180km
+- 50/34 + 11-34 gearing (1:1 low gear) — climbs Alpe d'Huez
+- Hydraulic disc brakes — safe alpine descents
+- 6-year frame warranty
+
+**Downside:** €299 over the €3,000 all-in budget. Worth it if you can stretch.
+
+---
+
+## Option 2: New Cube Attain C:62 SLX — €2,499 ★ RECOMMENDED (within budget)
 
 | Item | Cost |
 |---|---|
@@ -23,12 +45,12 @@ For Alpe d'Huez specifically, the official race recommendation is a road bike wi
 - 50/34 + 11-34 gearing (1:1 low gear) — climbs Alpe d'Huez
 - Hydraulic disc brakes — safe alpine descents
 - 6-year frame warranty
-- Add clip-ons when you want them, ride without when you don't
 - Available at Cube dealers across NL (test ride possible)
+- **Well within budget** — leaves €200 for extras (11-36 cassette, better tyres)
 
 ---
 
-## Option 2: Used Canyon Endurace CF 7 Di2 — ~€2,200–2,600
+## Option 3: Used Canyon Endurace CF 7 Di2 — ~€2,200–2,600
 
 | Item | Cost |
 |---|---|
@@ -49,7 +71,7 @@ For Alpe d'Huez specifically, the official race recommendation is a road bike wi
 
 ---
 
-## Option 3: Used TT Bike (Canyon Speedmax / Cube Aerium) — ~€2,000–3,000
+## Option 4: Used TT Bike (Canyon Speedmax / Cube Aerium) — ~€2,000–3,000
 
 | Item | Cost |
 |---|---|
@@ -71,7 +93,7 @@ For Alpe d'Huez specifically, the official race recommendation is a road bike wi
 
 ---
 
-## Option 4: Used Cube Attain C:62 Race — ~€1,200–1,500
+## Option 5: Used Cube Attain C:62 Race — ~€1,200–1,500
 
 | Item | Cost |
 |---|---|
@@ -90,7 +112,12 @@ For Alpe d'Huez specifically, the official race recommendation is a road bike wi
 ```
 Budget: €2,000–€3,000
 │
-├─ New Cube Attain C:62 SLX (€2,499)
+├─ New Cube Attain C:62 SLT (€2,999) ★ best spec
+│   ├─ Clip-on bars (€100)
+│   ├─ Bike fit (€200)
+│   └─ Total: ~€3,299 ⚠️ slightly over
+│
+├─ New Cube Attain C:62 SLX (€2,499) ★ within budget
 │   ├─ Clip-on bars (€100)
 │   ├─ Bike fit (€200)
 │   └─ Total: ~€2,800
@@ -112,20 +139,23 @@ Budget: €2,000–€3,000
 
 ## What to Do Before Race Day
 
-1. **Buy the Cube Attain C:62 SLX** from a Cube dealer in NL
-2. **Install clip-on aero bars** (Profile Design, Zipp, or Syncros)
-3. **Get a professional bike fit** — crucial for Ironman comfort
-4. **Consider a cassette swap** to 11-36 if you're lighter or a first-timer at Alpe d'Huez
-5. **Train on the setup** — get used to the aero position on climbs and descents
-6. **Travel tip:** The C:62 SLX has a standard round 27.2mm seatpost and standard stem — easy to pack in a bike case/fly with
+1. **Choose:** Cube Attain C:62 **SLT** (€2,999, Ultegra Di2, carbon wheels) if you can stretch to ~€3,300 all-in, or **SLX** (€2,499, 105 Di2) if you want to stay well within budget
+2. **Buy from:** CubeStores (SLT) or Mutsaars Bikes / local Cube dealer (SLX)
+3. **Install clip-on aero bars** (Profile Design, Zipp, or Syncros)
+4. **Get a professional bike fit** — crucial for Ironman comfort
+5. **Consider a cassette swap** to 11-36 if you're lighter or a first-timer at Alpe d'Huez
+6. **Train on the setup** — get used to the aero position on climbs and descents
+7. **Travel tip:** Both the SLT and SLX have standard round 27.2mm seatposts and standard stems — easy to pack in a bike case
 
 ---
 
 ## Bottom Line
 
-**New Cube Attain C:62 SLX (€2,499) or Giant Defy Advanced 1 (€2,650 from Marktplaats dealer) + clip-ons = best overall package for Alpe d'Huez Ironman within budget.**
+**Cube Attain C:62 SLT (€2,999, CubeStores) — best spec, slightly over all-in budget. Cube Attain C:62 SLX (€2,499) best value within budget.**
 
-⚠️ **Right now on Marktplaats:** a dealer is selling **new Giant Defy Advanced 1 with 105 Di2 for €2,650**. That's €151 more than the Cube for a bike with 40mm tyre clearance, same 105 Di2 groupset, and full warranty. Worth a look.
+⚠️ **If you can stretch to ~€3,300 total:** the **SLT** gives you Ultegra Di2, carbon wheels, and 7.9 kg — unbeatable at this price.
+⚠️ **If you need to stay within €3,000 total:** the **SLX** with 105 Di2 at 8.4 kg is the best value, with €200 left over for extras.
+⚠️ **New Giant Defy Advanced 1 with 105 Di2 for €2,650** at BikePro on Marktplaats is the best all-rounder with 40mm clearance.
 
 The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Canyon Endurace CF SL 8.0 Di2** in excellent condition under €2,200. For a used TT bike, unless you mostly race flat Ironmans, skip it for this race.
 
@@ -136,8 +166,9 @@ The only reason to go used is if you find a **Canyon Endurace CF 7 Di2** or **Ca
 
 ## Sources
 
-- [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
+- [Cube Attain C:62 SLT (€2,999) — CubeStores NL](https://www.cubestores.nl/products/cube-attain-c-62-slt-shiftmint-white?variant=51616247546199)
 - [Cube Attain C:62 SLX (€2,499) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2320398844-cube-attain-c-62-slx)
+- [Giant Defy Advanced 1 (€2,650) — BikePro on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2289933649-giant-defy-advanced-1-shimano-105-di2-van-3599-voor-2650)
 - [Cube Attain C:62 Race (€1,699) — Mutsaars Bikes on Marktplaats](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2397717294-cube-attain-c-62-race-carbon-racefiets-shimano-105-1699)
 - [Canyon Endurace CF SL Ultegra Di2 (~€2,200) — Marktplaats listing](https://www.marktplaats.nl/v/fietsen-en-brommers/fietsen-racefietsen/m2374264487-canyon-endurace-cf-sl-ultegra-di2-carbon-racefiets-s)
 - [Alpe d'Huez Triathlon official bike advice](https://www.alpetriathlon.com/choose-the-right-bike-with-france-bike-rentals/?lang=en)

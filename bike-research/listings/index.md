@@ -6,6 +6,7 @@ Click a bike to see full details, specs, and links to the actual Marktplaats lis
 
 | Bike | Price | Groupset | Frame | Weight | Page |
 |---|---|---|---|---|---|
+| **Cube Attain C:62 SLT** | €2,999 ★ | Ultegra Di2 | Carbon | 7.9 kg | [View →](cube-attain-c62-slt.md) |
 | **Cube Attain C:62 SLX** | €2,499 | 105 Di2 | Carbon | 8.4 kg | [View →](cube-attain-c62-slx.md) |
 | **Cube Attain C:62 Race** | €1,699 | 105 mech | Carbon | 9.2 kg | [View →](cube-attain-c62-race.md) |
 | **Giant Defy Advanced 1** ⭐ | €2,650 | 105 Di2 | Carbon | 8.7 kg | [View →](giant-defy-advanced-1.md) |

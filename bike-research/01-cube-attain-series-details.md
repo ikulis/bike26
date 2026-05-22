@@ -8,7 +8,7 @@ Cube NL prices include 21% Dutch VAT. All models have disc brakes, thru-axles, e
 
 | Spec | Detail |
 |---|---|
-| **Price (NL)** | **€3,576** — slightly over budget |
+| **Price (NL)** | **€2,999** (CubeStores) — RRP €3,576, **CubeStores sells for €2,999** |
 | **Frame** | C:62 Carbon (Twin Mold), 34mm tyre clearance |
 | **Fork** | CUBE CSL Race Disc, full carbon |
 | **Groupset** | Shimano Ultegra Di2 R8170, **2x12 electronic** |
@@ -20,7 +20,7 @@ Cube NL prices include 21% Dutch VAT. All models have disc brakes, thru-axles, e
 | **Weight** | **7.9 kg** |
 | **Sizes** | 47–62 cm |
 
-**Verdict:** Best-priced Ultegra Di2 bike on the market (BikeRadar 4.5/5). Over budget at €3,576.
+**Verdict:** Best-priced Ultegra Di2 bike on the market (BikeRadar 4.5/5). **Now within budget at €2,999 (CubeStores).**
 
 ---
 
@@ -94,5 +94,6 @@ Cube NL prices include 21% Dutch VAT. All models have disc brakes, thru-axles, e
 - [Cube Attain series — cube.eu](https://www.cube.eu/bikes/road/road-race/attain)
 - [Cube Attain C:62 SLX Dutch product page](https://www.cube.eu/nl-nl/cube-attain-c-62-slx-silver-arrow/125600)
 - [Cube Attain C:62 Race Dutch product page](https://www.cube.eu/nl/cube-attain-c-62-race-blackline/125500)
+- [Cube Attain C:62 SLT at CubeStores (€2,999)](https://www.cubestores.nl/products/cube-attain-c-62-slt-shiftmint-white?variant=51616247546199)
 - [TOUR magazine review (English)](https://www.tour-magazin.de/en/marathon-bike-endurance-road-bike/inexpensive-electric-shifting-the-cube-attain-c-62-slx-in-an-individual-test/)
 - [BIKE magazine review (English)](https://www.bike-magazin.de/en/marathon-bike-endurance-road-bike/cube-attain-c-62-slx-inexpensive-road-bike-with-electric-shimano-105-di2-on-test/)
